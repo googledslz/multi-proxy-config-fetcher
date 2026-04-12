@@ -18,6 +18,12 @@
 
 ### **[👉 Anonymous Proxy Hub - 访问所有端点](https://4n0nymou3.github.io/Anonymous-Proxy-Hub/)**
 
+
+
+
+
+
+
 Web 界面提供：
 - **7 个不同的端点** 以满足不同使用场景
 - **原始配置** — 未过滤的原始配置
@@ -41,6 +47,10 @@ Web 界面提供：
 
 ### 详细分析
 📊 [查看完整交互式仪表板](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+
+
+
+📊 [查看dslz完整交互式仪表板](https://htmlpreview.github.io/?https://github.com/googledslz/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **对于 Fork 的仓库的重要提示**：  
 > 如果你 fork 了此仓库，请在上面的仪表板链接中将 `4n0nymou3` 替换为你的 GitHub 用户名，以访问你自己的分析仪表板。
