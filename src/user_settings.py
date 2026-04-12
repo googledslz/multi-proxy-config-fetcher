@@ -4,6 +4,7 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://t.me/s/PrivateVPNs",
+    "https://t.me/s/V2RayRootFree",       # 浪子添加的
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
