@@ -11,6 +11,8 @@ SOURCE_URLS = [
    
     "https://us1.zhuk.dpdns.org/YouTube/cM1vN/c.yaml",       # 浪子添加的
 
+    "https://node.zyfx6.xyz/clash",       # 浪子添加的  t.me/txwl666
+
 
     
     "https://v1.mk/fJgpEwS",       # 浪子添加的
