@@ -169,7 +169,6 @@
                 "🇩🇰 544 - DK - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇭🇺 552 - HU - VLESS/REALITY/PBK/VISION - 443",
                 "🇹🇷 582 - TR - VLESS/REALITY/PBK/SID/UTLS - 443",
-                "🇮🇳 602 - IN - VLESS/WS - 80",
                 "🇫🇮 610 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇭🇰 1 - HK - SS/AEAD - 11201",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
@@ -234,6 +233,7 @@
                 "🇮🇩 117 - ID - SS/AEAD - 990",
                 "🇱🇻 126 - LV - SS/AEAD - 24637",
                 "🇳🇱 130 - NL - SS/AEAD - 8080",
+                "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇲🇾 133 - MY - SS/AEAD - 51348",
                 "🇮🇹 134 - IT - SS/AEAD - 443",
                 "🇬🇧 137 - GB - SS/AEAD - 443",
@@ -292,6 +292,7 @@
                 "🇬🇧 694 - GB - SS/AEAD - 80",
                 "🇺🇸 9 - US - Trojan/WS/TLS - 443",
                 "🇸🇬 22 - SG - Trojan/TLS - 23357",
+                "🇭🇰 29 - HK - VMess - 30830",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
@@ -375,7 +376,6 @@
                 "🇩🇰 544 - DK - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443",
                 "🇭🇺 552 - HU - VLESS/REALITY/PBK/VISION - 443",
                 "🇹🇷 582 - TR - VLESS/REALITY/PBK/SID/UTLS - 443",
-                "🇮🇳 602 - IN - VLESS/WS - 80",
                 "🇫🇮 610 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇭🇰 1 - HK - SS/AEAD - 11201",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
@@ -440,6 +440,7 @@
                 "🇮🇩 117 - ID - SS/AEAD - 990",
                 "🇱🇻 126 - LV - SS/AEAD - 24637",
                 "🇳🇱 130 - NL - SS/AEAD - 8080",
+                "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇲🇾 133 - MY - SS/AEAD - 51348",
                 "🇮🇹 134 - IT - SS/AEAD - 443",
                 "🇬🇧 137 - GB - SS/AEAD - 443",
@@ -498,6 +499,7 @@
                 "🇬🇧 694 - GB - SS/AEAD - 80",
                 "🇺🇸 9 - US - Trojan/WS/TLS - 443",
                 "🇸🇬 22 - SG - Trojan/TLS - 23357",
+                "🇭🇰 29 - HK - VMess - 30830",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
@@ -1920,24 +1922,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇮🇳 602 - IN - VLESS/WS - 80",
-            "server": "pq-india1.09vpn.com",
-            "server_port": 80,
-            "uuid": "5a54a377-a9d3-4ea5-b7b0-17bd899e202d",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "pq-india1.09vpn.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
             "tag": "🇫🇮 610 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
             "server": "fin5.frostbot.ru",
             "server_port": 443,
@@ -2464,6 +2448,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇷🇴 132 - RO - SS/AEAD - 443",
+            "server": "154.46.31.106",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "QFWzCw2uX9B9i6qAYeFBIE"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇲🇾 133 - MY - SS/AEAD - 51348",
             "server": "124.217.247.205",
             "server_port": 51348,
@@ -2956,6 +2948,19 @@
                 }
             },
             "transport": {}
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 29 - HK - VMess - 30830",
+            "server": "v30.hdacd.com",
+            "server_port": 30830,
+            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
         },
         {
             "type": "vmess",
