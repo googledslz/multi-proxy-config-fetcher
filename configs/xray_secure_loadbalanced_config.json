@@ -232,6 +232,35 @@
       "settings": {
         "vnext": [
           {
+            "address": "46.30.46.161",
+            "port": 443,
+            "users": [
+              {
+                "id": "2fdd6b51-4fe2-4e2f-803a-3eb284bf038e",
+                "flow": "xtls-rprx-vision",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "nlx1.braidpro.online",
+          "allowInsecure": false,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "proxy-8",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
             "address": "217.13.104.213",
             "port": 443,
             "users": [
@@ -255,7 +284,7 @@
       }
     },
     {
-      "tag": "proxy-8",
+      "tag": "proxy-9",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -284,7 +313,7 @@
       }
     },
     {
-      "tag": "proxy-9",
+      "tag": "proxy-10",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -309,37 +338,6 @@
           "serverName": "www.cloudflare.com",
           "allowInsecure": false,
           "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-10",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "152.233.28.198",
-            "port": 8443,
-            "users": [
-              {
-                "id": "394f6981-a782-4779-9a85-e6cf22935d93",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "uk1.fromblancwithlove.com",
-          "allowInsecure": false,
-          "alpn": [
-            "h2"
-          ]
         }
       }
     },
@@ -380,6 +378,37 @@
       "settings": {
         "vnext": [
           {
+            "address": "152.233.28.198",
+            "port": 8443,
+            "users": [
+              {
+                "id": "394f6981-a782-4779-9a85-e6cf22935d93",
+                "flow": "",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "uk1.fromblancwithlove.com",
+          "allowInsecure": false,
+          "alpn": [
+            "h2"
+          ]
+        }
+      }
+    },
+    {
+      "tag": "proxy-13",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
             "address": "195.181.173.199",
             "port": 8443,
             "users": [
@@ -406,7 +435,7 @@
       }
     },
     {
-      "tag": "proxy-13",
+      "tag": "proxy-14",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -437,7 +466,7 @@
       }
     },
     {
-      "tag": "proxy-14",
+      "tag": "proxy-15",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -469,7 +498,7 @@
       }
     },
     {
-      "tag": "proxy-15",
+      "tag": "proxy-16",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -498,7 +527,7 @@
       }
     },
     {
-      "tag": "proxy-16",
+      "tag": "proxy-17",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -526,7 +555,7 @@
       }
     },
     {
-      "tag": "proxy-17",
+      "tag": "proxy-18",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -555,7 +584,7 @@
       }
     },
     {
-      "tag": "proxy-18",
+      "tag": "proxy-19",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -584,7 +613,7 @@
       }
     },
     {
-      "tag": "proxy-19",
+      "tag": "proxy-20",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -613,7 +642,7 @@
       }
     },
     {
-      "tag": "proxy-20",
+      "tag": "proxy-21",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -642,7 +671,7 @@
       }
     },
     {
-      "tag": "proxy-21",
+      "tag": "proxy-22",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -671,7 +700,7 @@
       }
     },
     {
-      "tag": "proxy-22",
+      "tag": "proxy-23",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -700,7 +729,36 @@
       }
     },
     {
-      "tag": "proxy-23",
+      "tag": "proxy-24",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "139.59.3.70",
+            "port": 24725,
+            "users": [
+              {
+                "id": "48ddd7e3-5d31-46ab-9153-16c0e4d92adc",
+                "flow": "xtls-rprx-vision",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "dash.cloudflare.com",
+          "allowInsecure": false,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "proxy-25",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -729,7 +787,7 @@
       }
     },
     {
-      "tag": "proxy-24",
+      "tag": "proxy-26",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -758,7 +816,7 @@
       }
     },
     {
-      "tag": "proxy-25",
+      "tag": "proxy-27",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -787,7 +845,7 @@
       }
     },
     {
-      "tag": "proxy-26",
+      "tag": "proxy-28",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -816,7 +874,7 @@
       }
     },
     {
-      "tag": "proxy-27",
+      "tag": "proxy-29",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -845,7 +903,7 @@
       }
     },
     {
-      "tag": "proxy-28",
+      "tag": "proxy-30",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -874,7 +932,7 @@
       }
     },
     {
-      "tag": "proxy-29",
+      "tag": "proxy-31",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -903,7 +961,7 @@
       }
     },
     {
-      "tag": "proxy-30",
+      "tag": "proxy-32",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -932,7 +990,7 @@
       }
     },
     {
-      "tag": "proxy-31",
+      "tag": "proxy-33",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -961,7 +1019,7 @@
       }
     },
     {
-      "tag": "proxy-32",
+      "tag": "proxy-34",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -990,7 +1048,7 @@
       }
     },
     {
-      "tag": "proxy-33",
+      "tag": "proxy-35",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1019,7 +1077,7 @@
       }
     },
     {
-      "tag": "proxy-34",
+      "tag": "proxy-36",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1048,7 +1106,7 @@
       }
     },
     {
-      "tag": "proxy-35",
+      "tag": "proxy-37",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1077,7 +1135,7 @@
       }
     },
     {
-      "tag": "proxy-36",
+      "tag": "proxy-38",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1106,7 +1164,7 @@
       }
     },
     {
-      "tag": "proxy-37",
+      "tag": "proxy-39",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1135,7 +1193,7 @@
       }
     },
     {
-      "tag": "proxy-38",
+      "tag": "proxy-40",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1164,7 +1222,7 @@
       }
     },
     {
-      "tag": "proxy-39",
+      "tag": "proxy-41",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1193,7 +1251,7 @@
       }
     },
     {
-      "tag": "proxy-40",
+      "tag": "proxy-42",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1222,7 +1280,7 @@
       }
     },
     {
-      "tag": "proxy-41",
+      "tag": "proxy-43",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1251,7 +1309,7 @@
       }
     },
     {
-      "tag": "proxy-42",
+      "tag": "proxy-44",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1280,7 +1338,7 @@
       }
     },
     {
-      "tag": "proxy-43",
+      "tag": "proxy-45",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1308,7 +1366,7 @@
       }
     },
     {
-      "tag": "proxy-44",
+      "tag": "proxy-46",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1337,7 +1395,7 @@
       }
     },
     {
-      "tag": "proxy-45",
+      "tag": "proxy-47",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1362,80 +1420,6 @@
           "serverName": "vk.com",
           "allowInsecure": false,
           "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-46",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.21.7.193",
-            "port": 443,
-            "users": [
-              {
-                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/sni.111000.dynv6.net/",
-          "headers": {
-            "Host": "sant.atira-40.workers.dev"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "sant.atira-40.workers.dev",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ]
-        }
-      }
-    },
-    {
-      "tag": "proxy-47",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "172.67.187.251",
-            "port": 443,
-            "users": [
-              {
-                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "wsSettings": {
-          "path": "/sni.111000.dynv6.net/",
-          "headers": {
-            "Host": "sant.atira-40.workers.dev"
-          }
-        },
-        "tlsSettings": {
-          "serverName": "sant.atira-40.workers.dev",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ]
         }
       }
     },
@@ -1698,7 +1682,7 @@
         "servers": [
           {
             "address": "194.233.73.51",
-            "port": 48802,
+            "port": 48801,
             "method": "chacha20-ietf-poly1305",
             "password": "7afa39016d5a409c",
             "level": 8
@@ -1716,7 +1700,7 @@
         "servers": [
           {
             "address": "194.233.73.51",
-            "port": 48803,
+            "port": 48802,
             "method": "chacha20-ietf-poly1305",
             "password": "7afa39016d5a409c",
             "level": 8
@@ -1734,7 +1718,7 @@
         "servers": [
           {
             "address": "194.233.73.51",
-            "port": 48804,
+            "port": 48803,
             "method": "chacha20-ietf-poly1305",
             "password": "7afa39016d5a409c",
             "level": 8
@@ -1751,10 +1735,10 @@
       "settings": {
         "servers": [
           {
-            "address": "n8mrcg005964vnc.cybervena.com",
-            "port": 50099,
+            "address": "194.233.73.51",
+            "port": 48804,
             "method": "chacha20-ietf-poly1305",
-            "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
+            "password": "7afa39016d5a409c",
             "level": 8
           }
         ]
@@ -1769,7 +1753,7 @@
       "settings": {
         "servers": [
           {
-            "address": "r3mrcg00129437x.cybervena.com",
+            "address": "n8mrcg005964vnc.cybervena.com",
             "port": 50099,
             "method": "chacha20-ietf-poly1305",
             "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
