@@ -18,7 +18,7 @@ SOURCE_URLS = [
     "https://v1.mk/fJgpEwS",       # 浪子添加的
     "https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fcache.ravelloh.top%3Fuuid%3D7e446659-fd18-addd-e828-02994b92e940&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true",
 
-
+    "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml"# 浪子添加的
 
     "https://t.me/s/v2rayfree",
     "https://t.me/s/PrivateVPNs",
