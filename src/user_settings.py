@@ -19,8 +19,16 @@ SOURCE_URLS = [
     "https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fcache.ravelloh.top%3Fuuid%3D7e446659-fd18-addd-e828-02994b92e940&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true",
 
 
+
+    "https://t.me/s/v2rayfree",
+    "https://t.me/s/PrivateVPNs",
+    "https://t.me/s/prrofile_purple",
+    "https://t.me/s/DirectVPN",
+    "https://t.me/v2nodes",
+    
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
+    
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
@@ -29,6 +37,11 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/Freedom-Guard-Builder/FL/refs/heads/main/config/Fast.txt",
     "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
     "https://raw.githubusercontent.com/davudsedft/purvpn/refs/heads/main/links/purkow.txt",
+
+
+
+
+    
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
