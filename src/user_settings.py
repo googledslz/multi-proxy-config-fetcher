@@ -4,21 +4,30 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://t.me/s/PrivateVPNs",
-    "https://t.me/s/V2RayRootFree",       # 浪子添加的
+    "https://t.me/s/V2RayRootFree",     
+    # 浪子添加的
 
-    "https://v1.mk/VZezaKC",       # 浪子添加的
+    "https://v1.mk/VZezaKC",      
+    # 浪子添加的
     "https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fcache.ravelloh.top%3Fuuid%3Dc6ae4a76-eb0b-d5f3-6ac1-04a649ec62ba&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true",       # 浪子添加的
    
-    "https://us1.zhuk.dpdns.org/YouTube/cM1vN/c.yaml",       # 浪子添加的
+    "https://us1.zhuk.dpdns.org/YouTube/cM1vN/c.yaml",      
+    # 浪子添加的
 
-    "https://node.zyfx6.xyz/clash",       # 浪子添加的  t.me/txwl666
+    "https://node.zyfx6.xyz/clash",      
+    # 浪子添加的  t.me/txwl666
 
 
     
-    "https://v1.mk/fJgpEwS",       # 浪子添加的
+    "https://v1.mk/fJgpEwS",      
+    # 浪子添加的
+
+     #----------------------------------------------
+    
     "https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fcache.ravelloh.top%3Fuuid%3D7e446659-fd18-addd-e828-02994b92e940&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true",
 
-    "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml"# 浪子添加的
+    "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
+    # 浪子添加的
 
     "https://t.me/s/v2rayfree",
     "https://t.me/s/PrivateVPNs",
@@ -28,6 +37,8 @@ SOURCE_URLS = [
     
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
+    #测试
+    "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt
     
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
