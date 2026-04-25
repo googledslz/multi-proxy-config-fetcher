@@ -102,10 +102,6 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
-                "🇺🇸 124 - US - VLESS/WS - 2052",
-                "🇺🇸 125 - US - VLESS/WS - 2052",
-                "🇺🇸 126 - US - VLESS/WS - 2052",
-                "🇺🇸 127 - US - VLESS/WS - 2052",
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 137 - US - VLESS/WS - 80",
@@ -115,8 +111,6 @@
                 "🇷🇺 240 - RU - VLESS/WS/TLS - 443",
                 "🇺🇸 263 - US - VLESS/WS - 2052",
                 "🇺🇸 264 - US - VLESS/WS - 2052",
-                "🇺🇸 299 - US - VLESS/WS - 80",
-                "🇺🇸 320 - US - VLESS/WS - 80",
                 "🇩🇪 335 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 336 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 349 - US - VLESS/WS/TLS - 443",
@@ -170,11 +164,9 @@
                 "🇺🇸 581 - US - VLESS/WS - 80",
                 "🇹🇷 582 - TR - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇺🇸 587 - US - VLESS/WS - 80",
-                "🇮🇳 602 - IN - VLESS/WS - 80",
                 "🇫🇮 610 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 656 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 658 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 693 - US - VLESS/WS/TLS - 443",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
                 "🇳🇱 5 - NL - SS/AEAD - 8080",
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
@@ -292,10 +284,6 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
-                "🇺🇸 124 - US - VLESS/WS - 2052",
-                "🇺🇸 125 - US - VLESS/WS - 2052",
-                "🇺🇸 126 - US - VLESS/WS - 2052",
-                "🇺🇸 127 - US - VLESS/WS - 2052",
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 137 - US - VLESS/WS - 80",
@@ -305,8 +293,6 @@
                 "🇷🇺 240 - RU - VLESS/WS/TLS - 443",
                 "🇺🇸 263 - US - VLESS/WS - 2052",
                 "🇺🇸 264 - US - VLESS/WS - 2052",
-                "🇺🇸 299 - US - VLESS/WS - 80",
-                "🇺🇸 320 - US - VLESS/WS - 80",
                 "🇩🇪 335 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇫🇮 336 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 349 - US - VLESS/WS/TLS - 443",
@@ -360,11 +346,9 @@
                 "🇺🇸 581 - US - VLESS/WS - 80",
                 "🇹🇷 582 - TR - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇺🇸 587 - US - VLESS/WS - 80",
-                "🇮🇳 602 - IN - VLESS/WS - 80",
                 "🇫🇮 610 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 656 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 658 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 693 - US - VLESS/WS/TLS - 443",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
                 "🇳🇱 5 - NL - SS/AEAD - 8080",
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
@@ -475,78 +459,6 @@
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
             "interval": "30s"
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 124 - US - VLESS/WS - 2052",
-            "server": "104.18.12.229",
-            "server_port": 2052,
-            "uuid": "12d75b7d-8fdf-4785-8d62-d836854e7e63",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "parking-nfchbwa1-v2.parking-1ab.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 125 - US - VLESS/WS - 2052",
-            "server": "104.18.13.229",
-            "server_port": 2052,
-            "uuid": "12d75b7d-8fdf-4785-8d62-d836854e7e63",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "parking-nfchbwa1-v2.parking-1ab.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 126 - US - VLESS/WS - 2052",
-            "server": "104.18.32.47",
-            "server_port": 2052,
-            "uuid": "12d75b7d-8fdf-4785-8d62-d836854e7e63",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "🔒",
-                "headers": {
-                    "Host": "parking-nfchbwa1-v2.parking-1ab.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 127 - US - VLESS/WS - 2052",
-            "server": "172.64.155.209",
-            "server_port": 2052,
-            "uuid": "12d75b7d-8fdf-4785-8d62-d836854e7e63",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "parking-nfchbwa1-v2.parking-1ab.workers.dev"
-                }
-            }
         },
         {
             "type": "vless",
@@ -741,42 +653,6 @@
                 "path": "/?ed=2560",
                 "headers": {
                     "Host": "winbiss-0tpka6-v1.winbiss.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 299 - US - VLESS/WS - 80",
-            "server": "104.16.9.24",
-            "server_port": 80,
-            "uuid": "2ac6e527-6410-48ce-b9ba-cc8135ee2a3b",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "fragrant-recipe-09f4.wopecuyubak61.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 320 - US - VLESS/WS - 80",
-            "server": "104.24.45.247",
-            "server_port": 80,
-            "uuid": "2e71d8fc-d2e8-44fc-89bd-c8a449a193aa",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "odd-bread-435d.ahmadrezasteamacc.workers.dev"
                 }
             }
         },
@@ -1886,24 +1762,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇮🇳 602 - IN - VLESS/WS - 80",
-            "server": "pq-india1.09vpn.com",
-            "server_port": 80,
-            "uuid": "5a54a377-a9d3-4ea5-b7b0-17bd899e202d",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/vless/",
-                "headers": {
-                    "Host": "pq-india1.09vpn.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
             "tag": "🇫🇮 610 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
             "server": "fin5.frostbot.ru",
             "server_port": 443,
@@ -1975,33 +1833,6 @@
                 "path": "/sni.111000.dynv6.net/",
                 "headers": {
                     "Host": "sany.tara132.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 693 - US - VLESS/WS/TLS - 443",
-            "server": "172.67.187.251",
-            "server_port": 443,
-            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "sant.atira-40.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/sni.111000.dynv6.net/",
-                "headers": {
-                    "Host": "sant.atira-40.workers.dev"
                 }
             }
         },
