@@ -104,7 +104,6 @@
                 "👽 Best Ping 🚀",
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇭🇺 216 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇷🇺 239 - RU - VLESS/WS/TLS - 443",
                 "🇷🇺 240 - RU - VLESS/WS/TLS - 443",
@@ -143,8 +142,8 @@
                 "🇳🇱 528 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 535 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 536 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+                "🇹🇷 582 - TR - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇺🇸 658 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 693 - US - VLESS/WS/TLS - 443",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
                 "🇳🇱 5 - NL - SS/AEAD - 8080",
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
@@ -159,7 +158,6 @@
                 "🇸🇬 28 - SG - SS/AEAD - 48802",
                 "🇸🇬 29 - SG - SS/AEAD - 48803",
                 "🇸🇬 30 - SG - SS/AEAD - 48804",
-                "🇹🇼 36 - TW - SS/AEAD - 50099",
                 "🇹🇼 35 - TW - SS/AEAD - 50099",
                 "🇹🇼 37 - TW - SS/AEAD - 50099",
                 "🇹🇼 38 - TW - SS/AEAD - 50099",
@@ -262,7 +260,6 @@
             "outbounds": [
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇭🇺 216 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇷🇺 239 - RU - VLESS/WS/TLS - 443",
                 "🇷🇺 240 - RU - VLESS/WS/TLS - 443",
@@ -301,8 +298,8 @@
                 "🇳🇱 528 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 535 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 536 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+                "🇹🇷 582 - TR - VLESS/REALITY/PBK/SID/UTLS - 443",
                 "🇺🇸 658 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 693 - US - VLESS/WS/TLS - 443",
                 "🇸🇬 2 - SG - SS/AEAD - 16922",
                 "🇳🇱 5 - NL - SS/AEAD - 8080",
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
@@ -317,7 +314,6 @@
                 "🇸🇬 28 - SG - SS/AEAD - 48802",
                 "🇸🇬 29 - SG - SS/AEAD - 48803",
                 "🇸🇬 30 - SG - SS/AEAD - 48804",
-                "🇹🇼 36 - TW - SS/AEAD - 50099",
                 "🇹🇼 35 - TW - SS/AEAD - 50099",
                 "🇹🇼 37 - TW - SS/AEAD - 50099",
                 "🇹🇼 38 - TW - SS/AEAD - 50099",
@@ -447,28 +443,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
-                    "short_id": ""
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-            "server": "47.251.25.74",
-            "server_port": 443,
-            "uuid": "18805ff3-b420-45de-af18-93be14024ae8",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.amazon.com",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8",
                     "short_id": ""
                 },
                 "utls": {
@@ -1332,6 +1306,28 @@
         },
         {
             "type": "vless",
+            "tag": "🇹🇷 582 - TR - VLESS/REALITY/PBK/SID/UTLS - 443",
+            "server": "77.92.145.222",
+            "server_port": 443,
+            "uuid": "53821f3c-5b03-456a-89f3-f8379f130752",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.vk.com",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI",
+                    "short_id": "4730242d"
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
             "tag": "🇺🇸 658 - US - VLESS/WS/TLS - 443",
             "server": "104.26.13.31",
             "server_port": 443,
@@ -1354,33 +1350,6 @@
                 "path": "/sni.111000.dynv6.net/",
                 "headers": {
                     "Host": "sany.tara132.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 693 - US - VLESS/WS/TLS - 443",
-            "server": "172.67.187.251",
-            "server_port": 443,
-            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "sant.atira-40.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/sni.111000.dynv6.net/",
-                "headers": {
-                    "Host": "sant.atira-40.workers.dev"
                 }
             }
         },
@@ -1495,14 +1464,6 @@
             "server_port": 48804,
             "method": "chacha20-ietf-poly1305",
             "password": "7afa39016d5a409c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇹🇼 36 - TW - SS/AEAD - 50099",
-            "server": "r3mrcg00129437x.cybervena.com",
-            "server_port": 50099,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4"
         },
         {
             "type": "shadowsocks",
