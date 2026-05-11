@@ -1232,6 +1232,24 @@
       "settings": {
         "servers": [
           {
+            "address": "r3mrcg007117fb8.cybervena.com",
+            "port": 50099,
+            "method": "chacha20-ietf-poly1305",
+            "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      }
+    },
+    {
+      "tag": "proxy-43",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
             "address": "193.29.139.143",
             "port": 8080,
             "method": "chacha20-ietf-poly1305",
@@ -1245,7 +1263,7 @@
       }
     },
     {
-      "tag": "proxy-43",
+      "tag": "proxy-44",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -1263,7 +1281,7 @@
       }
     },
     {
-      "tag": "proxy-44",
+      "tag": "proxy-45",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -1281,7 +1299,7 @@
       }
     },
     {
-      "tag": "proxy-45",
+      "tag": "proxy-46",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -1299,7 +1317,7 @@
       }
     },
     {
-      "tag": "proxy-46",
+      "tag": "proxy-47",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
@@ -1317,30 +1335,12 @@
       }
     },
     {
-      "tag": "proxy-47",
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "154.205.146.153",
-            "port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp"
-      }
-    },
-    {
       "tag": "proxy-48",
       "protocol": "shadowsocks",
       "settings": {
         "servers": [
           {
-            "address": "171.22.254.129",
+            "address": "154.205.146.153",
             "port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
