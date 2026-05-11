@@ -1205,35 +1205,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "77.92.145.222",
-            "port": 443,
-            "users": [
-              {
-                "id": "53821f3c-5b03-456a-89f3-f8379f130752",
-                "flow": "",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "www.vk.com",
-          "allowInsecure": false,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "proxy-40",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
             "address": "104.21.7.193",
             "port": 443,
             "users": [
@@ -1266,7 +1237,7 @@
       }
     },
     {
-      "tag": "proxy-41",
+      "tag": "proxy-40",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -1295,6 +1266,43 @@
         },
         "tlsSettings": {
           "serverName": "sany.tara132.workers.dev",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ]
+        }
+      }
+    },
+    {
+      "tag": "proxy-41",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.187.251",
+            "port": 443,
+            "users": [
+              {
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+                "flow": "",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/sni.111000.dynv6.net/",
+          "headers": {
+            "Host": "sant.atira-40.workers.dev"
+          }
+        },
+        "tlsSettings": {
+          "serverName": "sant.atira-40.workers.dev",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -2280,10 +2288,10 @@
       "settings": {
         "servers": [
           {
-            "address": "38.180.2.141",
-            "port": 5499,
+            "address": "38.180.161.123",
+            "port": 8119,
             "method": "aes-256-gcm",
-            "password": "lGqs95QkFHo2NV",
+            "password": "cdBIDV42DCwnfIN",
             "level": 8
           }
         ]
@@ -2298,10 +2306,10 @@
       "settings": {
         "servers": [
           {
-            "address": "149.102.149.207",
-            "port": 443,
+            "address": "38.180.2.141",
+            "port": 5499,
             "method": "aes-256-gcm",
-            "password": "umWwoQJEJGf74SLe",
+            "password": "lGqs95QkFHo2NV",
             "level": 8
           }
         ]
@@ -2335,7 +2343,7 @@
         "servers": [
           {
             "address": "149.102.149.207",
-            "port": 80,
+            "port": 443,
             "method": "aes-256-gcm",
             "password": "umWwoQJEJGf74SLe",
             "level": 8
@@ -2348,6 +2356,24 @@
     },
     {
       "tag": "proxy-100",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "149.102.149.207",
+            "port": 80,
+            "method": "aes-256-gcm",
+            "password": "umWwoQJEJGf74SLe",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      }
+    },
+    {
+      "tag": "proxy-101",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -2378,7 +2404,7 @@
       }
     },
     {
-      "tag": "proxy-101",
+      "tag": "proxy-102",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2402,7 +2428,7 @@
       }
     },
     {
-      "tag": "proxy-102",
+      "tag": "proxy-103",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2426,7 +2452,7 @@
       }
     },
     {
-      "tag": "proxy-103",
+      "tag": "proxy-104",
       "protocol": "vmess",
       "settings": {
         "vnext": [
