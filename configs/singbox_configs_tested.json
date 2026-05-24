@@ -109,7 +109,6 @@
                 "🇺🇸 127 - US - VLESS/WS - 2052",
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 137 - US - VLESS/WS - 80",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇭🇺 216 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇷🇺 239 - RU - VLESS/WS/TLS - 443",
@@ -118,7 +117,6 @@
                 "🇺🇸 264 - US - VLESS/WS - 2052",
                 "🇺🇸 299 - US - VLESS/WS - 80",
                 "🇺🇸 320 - US - VLESS/WS - 80",
-                "🇺🇸 343 - US - VLESS/WS - 2052",
                 "🇺🇸 349 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 350 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 351 - US - VLESS/WS - 80",
@@ -171,7 +169,6 @@
                 "🇺🇸 587 - US - VLESS/WS - 80",
                 "🇧🇿 633 - BZ - VLESS/WS - 80",
                 "🇺🇸 656 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 658 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 693 - US - VLESS/WS/TLS - 443",
                 "🇳🇱 5 - NL - SS/AEAD - 8080",
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
@@ -230,7 +227,6 @@
                 "🇬🇧 693 - GB - SS/AEAD - 443",
                 "🇬🇧 694 - GB - SS/AEAD - 80",
                 "🇺🇸 9 - US - Trojan/WS/TLS - 443",
-                "🇭🇰 29 - HK - VMess - 30830",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
@@ -253,7 +249,6 @@
                 "🇺🇸 127 - US - VLESS/WS - 2052",
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
-                "🇺🇸 137 - US - VLESS/WS - 80",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
                 "🇭🇺 216 - HU - VLESS/REALITY/PBK/SID/UTLS - 17267",
                 "🇷🇺 239 - RU - VLESS/WS/TLS - 443",
@@ -262,7 +257,6 @@
                 "🇺🇸 264 - US - VLESS/WS - 2052",
                 "🇺🇸 299 - US - VLESS/WS - 80",
                 "🇺🇸 320 - US - VLESS/WS - 80",
-                "🇺🇸 343 - US - VLESS/WS - 2052",
                 "🇺🇸 349 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 350 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 351 - US - VLESS/WS - 80",
@@ -315,7 +309,6 @@
                 "🇺🇸 587 - US - VLESS/WS - 80",
                 "🇧🇿 633 - BZ - VLESS/WS - 80",
                 "🇺🇸 656 - US - VLESS/WS/TLS - 443",
-                "🇺🇸 658 - US - VLESS/WS/TLS - 443",
                 "🇺🇸 693 - US - VLESS/WS/TLS - 443",
                 "🇳🇱 5 - NL - SS/AEAD - 8080",
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
@@ -374,7 +367,6 @@
                 "🇬🇧 693 - GB - SS/AEAD - 443",
                 "🇬🇧 694 - GB - SS/AEAD - 80",
                 "🇺🇸 9 - US - Trojan/WS/TLS - 443",
-                "🇭🇰 29 - HK - VMess - 30830",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
@@ -517,24 +509,6 @@
                 }
             },
             "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 137 - US - VLESS/WS - 80",
-            "server": "104.21.80.5",
-            "server_port": 80,
-            "uuid": "14e1775b-d92c-455b-8db3-e6c6d61909e0",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "vpnpro.eshghiabolfazl2009.workers.dev"
-                }
-            }
         },
         {
             "type": "vless",
@@ -703,24 +677,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "odd-bread-435d.ahmadrezasteamacc.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 343 - US - VLESS/WS - 2052",
-            "server": "www.visa.com.sg",
-            "server_port": 2052,
-            "uuid": "363a6072-05d7-48d5-8f19-312b05fdd9cd",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev"
                 }
             }
         },
@@ -1809,33 +1765,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 658 - US - VLESS/WS/TLS - 443",
-            "server": "104.26.13.31",
-            "server_port": 443,
-            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "sany.tara132.workers.dev",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/sni.111000.dynv6.net/",
-                "headers": {
-                    "Host": "sany.tara132.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
             "tag": "🇺🇸 693 - US - VLESS/WS/TLS - 443",
             "server": "172.67.187.251",
             "server_port": 443,
@@ -2333,19 +2262,6 @@
                 "headers": {
                     "Host": "sni.111000.dynv6.net"
                 }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇭🇰 29 - HK - VMess - 30830",
-            "server": "v30.hdacd.com",
-            "server_port": 30830,
-            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
             }
         },
         {
