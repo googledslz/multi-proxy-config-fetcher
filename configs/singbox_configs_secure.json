@@ -114,7 +114,6 @@
                 "🇳🇱 371 - NL - VLESS/TLS - 8443",
                 "🇭🇰 372 - HK - VLESS/TLS - 8443",
                 "🇬🇧 373 - GB - VLESS/TLS - 8443",
-                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -154,6 +153,8 @@
                 "🇬🇧 141 - GB - SS/AEAD - 443",
                 "🇬🇧 142 - GB - SS/AEAD - 443",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
+                "🇺🇸 186 - US - SS/AEAD - 443",
+                "🇺🇸 187 - US - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
                 "🇳🇱 191 - NL - SS/AEAD - 8080",
@@ -196,7 +197,6 @@
                 "🇳🇱 371 - NL - VLESS/TLS - 8443",
                 "🇭🇰 372 - HK - VLESS/TLS - 8443",
                 "🇬🇧 373 - GB - VLESS/TLS - 8443",
-                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -236,6 +236,8 @@
                 "🇬🇧 141 - GB - SS/AEAD - 443",
                 "🇬🇧 142 - GB - SS/AEAD - 443",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
+                "🇺🇸 186 - US - SS/AEAD - 443",
+                "🇺🇸 187 - US - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
                 "🇳🇱 191 - NL - SS/AEAD - 8080",
@@ -536,28 +538,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
-            "server": "51.158.62.94",
-            "server_port": 443,
-            "uuid": "43488128-319e-f480-64ea-0acdc712e2a8",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.laposte.fr",
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU",
-                    "short_id": "ad3c6641d540b4e1"
-                },
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             },
             "transport": {}
@@ -1209,6 +1189,22 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "aduB9HGxQHjA2SBMRjkHX6"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇺🇸 186 - US - SS/AEAD - 443",
+            "server": "tinkered-pennies-puppies.freesocks.work",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "hbGrpfvNrJsUmKmPbR3iY2"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇺🇸 187 - US - SS/AEAD - 443",
+            "server": "tinkered-pennies-puppies.freesocks.work",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "hbGrpfvNrJsUmKmPbR3iY2"
         },
         {
             "type": "shadowsocks",
