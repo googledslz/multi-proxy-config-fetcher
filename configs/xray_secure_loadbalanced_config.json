@@ -983,7 +983,7 @@
       "settings": {
         "servers": [
           {
-            "address": "r3mrcg00129437x.cybervena.com",
+            "address": "r3mrcg001287h3p.cybervena.com",
             "port": 50099,
             "method": "chacha20-ietf-poly1305",
             "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
@@ -1303,24 +1303,6 @@
     },
     {
       "tag": "proxy-50",
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "141.164.45.187",
-            "port": 7001,
-            "method": "aes-256-gcm",
-            "password": "RexnBgU7EV5ADxG",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp"
-      }
-    },
-    {
-      "tag": "proxy-51",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -1344,7 +1326,7 @@
       }
     },
     {
-      "tag": "proxy-52",
+      "tag": "proxy-51",
       "protocol": "vmess",
       "settings": {
         "vnext": [
