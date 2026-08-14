@@ -1,661 +1,49 @@
 {
-  "45.139.26.33": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "66.70.179.198": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "82.198.246.250": [
-    "🇨🇿",
-    "Czechia"
-  ],
-  "104.16.100.66": [
+  "guanwang.awsno.com": [
     "🇺🇸",
     "United States of America"
   ],
-  "70.39.178.204": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "15.235.41.200": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "82.198.246.37": [
-    "🇨🇿",
-    "Czechia"
-  ],
-  "fr.monkeyisland.xyz": [
-    "🇫🇷",
-    "France"
-  ],
-  "185.148.107.40": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "27.50.48.8": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "188.114.98.0": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "82.38.31.7": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "82.38.31.189": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "whole-grub.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "13.231.232.184": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "fj260306.freechatup.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "time.is": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "distinct-quail.rooster465.autos": [
-    "🇫🇷",
-    "France"
-  ],
-  "172.234.132.232": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "172.66.156.81": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.18.15.19": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "47.253.226.114": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "40.160.14.104": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "54.36.174.134": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "vah4urdzl3jdx5r2.v.3dns.vip": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "207.56.227.226": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "157.185.173.60": [
-    "🇧🇷",
-    "Brazil"
-  ],
-  "45.67.139.37": [
-    "🇫🇷",
-    "France"
-  ],
-  "trq.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "38.107.234.57": [
-    "🇰🇿",
-    "Kazakhstan"
-  ],
-  "103.36.91.23": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "www.zsu.gov.ua": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "cdn-cloudflare91.korvexe.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "194.26.229.219": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "82.38.31.57": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "185.91.53.4": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "13.125.144.78": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "104.21.4.124": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "94.20.88.13": [
-    "🇦🇿",
-    "Azerbaijan"
-  ],
-  "150.241.108.36": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "82.38.31.10": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "fancy-skink.rooster465.autos": [
-    "🇫🇷",
-    "France"
-  ],
-  "172.67.134.185": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "vip-de2-unlimited.relqino.ir": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "16.145.201.0": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "ex1ogt73nzpqkac2.v.3dns.vip": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "109.61.39.150": [
-    "🇰🇿",
-    "Kazakhstan"
-  ],
-  "2.56.242.210": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "154.90.62.145": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "45.87.175.177": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "dynamic-grubworm.rooster465.autos": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "38.54.76.8": [
-    "🇦🇪",
-    "United Arab Emirates"
-  ],
-  "107.173.127.166": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.167.197.79": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "188.116.23.244": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "185.247.16.3": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "t11.qifei.app": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "185.148.104.30": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "160.16.110.77": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "real-werewolf.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "51.79.103.76": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "38.180.135.156": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "82.38.31.3": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "flat-night-edd0.hosein9saleazhuongooyeh87.workers.dev": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "ad-020.vector2llqn.info": [
-    "🏳️",
-    "Unknown"
-  ],
-  "95.164.116.33": [
-    "🇹🇷",
-    "Turkiye"
-  ],
-  "103.186.155.76": [
+  "103.166.184.134": [
     "🇻🇳",
     "Viet Nam"
   ],
-  "communal-sunbird.rooster465.autos": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "104.18.32.37": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "ca225.vpnbook.com": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "94.183.188.132": [
-    "🇫🇷",
-    "France"
-  ],
-  "217.13.104.101": [
-    "🇭🇺",
-    "Hungary"
-  ],
-  "217.60.99.18": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "supreme-lobster.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "172.64.149.99": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "43.250.54.155": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "180.178.60.253": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "one-for-all.levikogjgfdd.ir": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "103.186.154.251": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "43.201.103.8": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "43.203.203.244": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "2a0c:4ac1:8::121": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.26": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "154.46.31.106": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "185.225.19.39": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "cosmin.ns.cloudflare.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "n1753598448.74qxv.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.158.206.12": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "103.111.114.80": [
-    "🇮🇳",
-    "India"
-  ],
-  "104.16.174.44": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "172.67.153.110": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "185.247.16.4": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "25.129.199.148": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "51.158.206.96": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "103.186.154.249": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "104.16.72.50": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "3.35.140.99": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "192.200.160.132": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "194.233.73.51": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "drbkg16egf3fzlm3.v.3dns.vip": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "193.124.204.145": [
-    "🇰🇿",
-    "Kazakhstan"
-  ],
-  "87.121.162.249": [
-    "🇦🇱",
-    "Albania"
-  ],
-  "deapp.jisuyun.top": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "up-dinosaur.rooster465.autos": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "3.36.59.34": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "css.torplay.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.154.18": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "205.237.109.221": [
-    "🇮🇹",
-    "Italy"
-  ],
-  "40.160.4.20": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.171.135.186": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "upright-hamster.rooster465.autos": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "173.245.58.162": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "205.237.109.219": [
-    "🇮🇹",
-    "Italy"
-  ],
-  "172.67.152.71": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "172.67.137.154": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "3.113.1.131": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "54.249.34.120": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "8.6.112.0": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "91.106.109.74": [
-    "🇯🇴",
-    "Jordan"
-  ],
-  "n1747624267.4u9ma.icu": [
-    "🏳️",
-    "Unknown"
-  ],
-  "n1747624260.4u9ma.icu": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "kind-stork.rooster465.autos": [
+  "worthy-labrador.rooster465.autos": [
     "🇮🇪",
     "Ireland"
   ],
-  "social-mutt.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "176.122.174.175": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "176.109.85.112": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "154.223.20.79": [
-    "🇹🇼",
-    "Taiwan (Province of China)"
-  ],
-  "40.160.4.127": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "pet-ghost.rooster465.autos": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "141.101.114.8": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "neth.lckdwn.ru": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "one-quail.rooster465.autos": [
-    "🇫🇷",
-    "France"
-  ],
-  "103.186.154.77": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "bypass.fr-gt-01.com": [
-    "🇫🇷",
-    "France"
-  ],
-  "165.140.216.141": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.17.111.4": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "45.131.209.130": [
-    "🇧🇿",
-    "Belize"
-  ],
-  "51.255.13.232": [
-    "🇫🇷",
-    "France"
-  ],
-  "165.140.216.142": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.18.152.133": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "82.38.31.212": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "103.186.154.237": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "fj260304.freechatup.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "neth6.lckdwn.ru": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "51.158.206.80": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "185.156.44.99": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "n1753598451.74qxv.top": [
+  "asd.fastnew199.hosting-ip.com": [
     "🏳️",
     "Unknown"
   ],
-  "103.186.155.121": [
-    "🇻🇳",
-    "Viet Nam"
+  "154.223.16.212": [
+    "🇨🇴",
+    "Colombia"
   ],
-  "brenna.ns.cloudflare.com": [
-    "🇺🇸",
-    "United States of America"
+  "fr.vpn.legendaah.xyz": [
+    "🇫🇷",
+    "France"
   ],
-  "82.38.31.204": [
+  "206.71.158.37": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "casual-bee.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "103.186.154.200": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "146.103.113.158": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "209.94.90.4": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "mci.pictureiran.ir": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "135.106.140.23": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "167.17.70.117": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "usa1.spectrumproxy.shop": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "u2frxj0g13vdi0wo.v.3dns.vip": [
+  "38.60.203.155": [
     "🇭🇰",
     "Hong Kong"
   ],
-  "194.87.47.61": [
-    "🇮🇹",
-    "Italy"
-  ],
-  "198.23.130.211": [
+  "platform.wise.com": [
     "🇺🇸",
     "United States of America"
   ],
-  "86.107.178.69": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "helped-haddock.rooster465.autos": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "138.124.113.18": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "45.131.212.6": [
+  "178.154.208.44": [
     "🇷🇺",
     "Russian Federation"
   ],
-  "cf3.466688.xyz": [
+  "pq-brazil1.09vpn.com": [
+    "🏳️",
+    "Unknown"
+  ],
+  "104.17.111.8": [
     "🇺🇸",
     "United States of America"
   ],
@@ -663,1011 +51,1287 @@
     "🇨🇿",
     "Czechia"
   ],
-  "35.181.195.29": [
-    "🇫🇷",
-    "France"
-  ],
-  "45.89.105.74": [
-    "🇮🇳",
-    "India"
-  ],
-  "188.114.97.3": [
+  "pg-usa2-hy2.gigatapbot.top": [
     "🇺🇸",
     "United States of America"
   ],
-  "72.56.81.165": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
+  "45.11.184.233": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
   ],
-  "discrete-basilisk.rooster465.autos": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "teaching-gnu.rooster465.autos": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "15.188.161.63": [
+  "37.59.97.136": [
     "🇫🇷",
     "France"
   ],
-  "52.195.10.183": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "185.221.199.121": [
+  "5.182.37.87": [
     "🇷🇺",
     "Russian Federation"
   ],
-  "70.39.197.9": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "asd.fastnew199.hosting-ip.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.155.97.241": [
-    "🇪🇪",
-    "Estonia"
-  ],
-  "103.186.154.14": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "103.186.155.84": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "82.38.31.162": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "104.16.72.21": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "91.224.75.31": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "free1.barayekhudam.ir": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.17.97.5": [
-    "🇺🇸",
-    "United States"
-  ],
-  "95.163.232.183": [
-    "🇺🇸",
-    "United States"
-  ],
-  "185.137.157.72": [
-    "🇺🇸",
-    "United States"
-  ],
-  "norman.ns.cloudflare.com": [
-    "🇺🇸",
-    "United States"
-  ],
-  "217.19.122.79": [
-    "🇺🇸",
-    "United States"
-  ],
-  "internal-sunbird.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "51.250.25.32": [
-    "🇺🇸",
-    "United States"
-  ],
-  "57.180.27.225": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.16.71.213": [
-    "🇺🇸",
-    "United States"
-  ],
-  "82.38.31.185": [
-    "🇺🇸",
-    "United States"
-  ],
-  "43.203.244.203": [
-    "🇺🇸",
-    "United States"
-  ],
-  "198.98.53.130": [
-    "🇺🇸",
-    "United States"
-  ],
-  "82.38.31.206": [
-    "🇺🇸",
-    "United States"
-  ],
-  "103.186.154.143": [
-    "🇺🇸",
-    "United States"
-  ],
-  "77.222.35.36": [
-    "🇺🇸",
-    "United States"
-  ],
-  "38.110.1.246": [
-    "🇺🇸",
-    "United States"
-  ],
-  "172.66.40.99": [
-    "🇺🇸",
-    "United States"
-  ],
-  "glorious-glider.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "ip.sb": [
-    "🇺🇸",
-    "United States"
-  ],
-  "yg3.mangshe.xyz": [
-    "🇺🇸",
-    "United States"
-  ],
-  "ad-020.vector9nmb3.info": [
-    "🇺🇸",
-    "United States"
-  ],
-  "wwafj5lhl6bi8au9.v.3dns.vip": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.87.175.157": [
-    "🇺🇸",
-    "United States"
-  ],
-  "prepared-monitor.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "70.39.198.35": [
-    "🇺🇸",
-    "United States"
-  ],
-  "168.222.140.204": [
-    "🇺🇸",
-    "United States"
-  ],
-  "intimate-moray.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "game-firefly.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "91.196.32.163": [
-    "🇺🇸",
-    "United States"
-  ],
-  "154.223.16.212": [
-    "🇺🇸",
-    "United States"
-  ],
-  "208.87.243.187": [
-    "🇺🇸",
-    "United States"
-  ],
-  "vpn-us-002.fastervpn.world": [
-    "🇺🇸",
-    "United States"
-  ],
-  "154.26.132.38": [
-    "🇺🇸",
-    "United States"
-  ],
-  "i2psm3knof5qjjix.v.3dns.vip": [
-    "🇺🇸",
-    "United States"
-  ],
-  "switcher-nick-croquet.freesocks.work": [
-    "🇺🇸",
-    "United States"
-  ],
-  "194.55.239.113": [
-    "🇺🇸",
-    "United States"
-  ],
-  "84.201.140.155": [
-    "🇺🇸",
-    "United States"
-  ],
-  "cindy52.ceoiii.com": [
-    "🇺🇸",
-    "United States"
-  ],
-  "80.93.52.44": [
-    "🇺🇸",
-    "United States"
-  ],
-  "xg.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "79.175.134.49": [
-    "🇺🇸",
-    "United States"
-  ],
-  "sensible-mongrel.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "31.76.76.26": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.16.97.215": [
-    "🇺🇸",
-    "United States"
-  ],
-  "one.cf.cdn.hyli.xyz": [
-    "🇺🇸",
-    "United States"
-  ],
-  "5.129.235.85": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.20.6.134": [
-    "🇺🇸",
-    "United States"
-  ],
-  "15.204.97.219": [
-    "🇺🇸",
-    "United States"
-  ],
-  "193.29.139.151": [
-    "🇺🇸",
-    "United States"
-  ],
-  "141.98.4.67": [
-    "🇺🇸",
-    "United States"
-  ],
-  "purple-butterfly-8496.erfannull36.workers.dev": [
-    "🇺🇸",
-    "United States"
-  ],
-  "216.106.185.141": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.16.174.117": [
-    "🇺🇸",
-    "United States"
-  ],
-  "172.66.200.130": [
-    "🇺🇸",
-    "United States"
-  ],
-  "pl140.vpnbook.com": [
-    "🇺🇸",
-    "United States"
-  ],
-  "170.114.45.6": [
-    "🇺🇸",
-    "United States"
-  ],
-  "103.186.155.62": [
-    "🇺🇸",
-    "United States"
-  ],
-  "43.207.166.211": [
-    "🇺🇸",
-    "United States"
-  ],
-  "eager-camel.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "main-impala.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "82.38.31.15": [
-    "🇺🇸",
-    "United States"
-  ],
-  "47.250.135.244": [
-    "🇺🇸",
-    "United States"
-  ],
-  "wanted-marmoset.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "54.65.167.167": [
-    "🇺🇸",
-    "United States"
-  ],
-  "6jdvarazgu3qqr6q.v.3dns.vip": [
-    "🇺🇸",
-    "United States"
-  ],
-  "mtckundigepwu3up.v.3dns.vip": [
-    "🇺🇸",
-    "United States"
-  ],
-  "176.109.106.68": [
-    "🇺🇸",
-    "United States"
-  ],
-  "92.112.126.90": [
-    "🇺🇸",
-    "United States"
-  ],
-  "definite-hen.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "pg-nl2-bot.gigatapbot.top": [
-    "🇺🇸",
-    "United States"
-  ],
-  "172.67.132.19": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.89.107.51": [
-    "🇺🇸",
-    "United States"
-  ],
-  "sacred-hound.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "87.121.82.132": [
-    "🇺🇸",
-    "United States"
-  ],
-  "172.67.195.229": [
-    "🇺🇸",
-    "United States"
-  ],
-  "172.67.135.69": [
-    "🇺🇸",
-    "United States"
-  ],
-  "05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev": [
-    "🇺🇸",
-    "United States"
-  ],
-  "free.server11peekconfig.workers.dev": [
-    "🇺🇸",
-    "United States"
-  ],
-  "185.22.235.161": [
-    "🇺🇸",
-    "United States"
-  ],
-  "103.186.154.164": [
-    "🇺🇸",
-    "United States"
-  ],
-  "twdx6.baidupi.top": [
-    "🇺🇸",
-    "United States"
-  ],
-  "clear-heron.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "199.232.78.159": [
-    "🇺🇸",
-    "United States"
-  ],
-  "84.247.147.61": [
-    "🇺🇸",
-    "United States"
-  ],
-  "tolerant-mosquito.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "103.186.155.60": [
-    "🇺🇸",
-    "United States"
-  ],
-  "52.79.160.55": [
-    "🇺🇸",
-    "United States"
-  ],
-  "163.171.206.24": [
-    "🇺🇸",
-    "United States"
-  ],
-  "hy2.561891.xyz": [
-    "🇺🇸",
-    "United States"
-  ],
-  "46.250.240.80": [
-    "🇺🇸",
-    "United States"
-  ],
-  "51.195.126.38": [
-    "🇺🇸",
-    "United States"
-  ],
-  "89.208.228.167": [
-    "🇺🇸",
-    "United States"
-  ],
-  "gorbachev-th.kvnfreetest.uk": [
-    "🇺🇸",
-    "United States"
-  ],
-  "84.201.136.20": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.82.102.204": [
-    "🇺🇸",
-    "United States"
-  ],
-  "8.218.17.136": [
-    "🇺🇸",
-    "United States"
-  ],
-  "82.38.31.186": [
-    "🇺🇸",
-    "United States"
-  ],
   "103.106.231.82": [
-    "🇺🇸",
-    "United States"
-  ],
-  "38.60.221.237": [
-    "🇺🇸",
-    "United States"
-  ],
-  "nld26.luckernld.org": [
-    "🇺🇸",
-    "United States"
-  ],
-  "51.195.116.82": [
-    "🇺🇸",
-    "United States"
-  ],
-  "5.75.196.88": [
-    "🇺🇸",
-    "United States"
-  ],
-  "62.60.233.41": [
-    "🇺🇸",
-    "United States"
-  ],
-  "65.109.178.10": [
-    "🇺🇸",
-    "United States"
-  ],
-  "79.127.227.53": [
-    "🇺🇸",
-    "United States"
-  ],
-  "distinct-llama.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "140.83.51.161": [
-    "🇺🇸",
-    "United States"
-  ],
-  "134.255.210.49": [
-    "🇺🇸",
-    "United States"
-  ],
-  "82.38.31.190": [
-    "🇺🇸",
-    "United States"
-  ],
-  "de2.vpn.legendaah.xyz": [
-    "🇺🇸",
-    "United States"
-  ],
-  "163.171.181.30": [
-    "🇺🇸",
-    "United States"
-  ],
-  "193.168.46.180": [
-    "🇺🇸",
-    "United States"
-  ],
-  "67.220.72.237": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.21.84.30": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.16.107.139": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "104.171.133.161": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "23.27.20.142": [
-    "🇬🇧",
-    "United Kingdom"
-  ],
-  "45.82.14.144": [
-    "🇰🇿",
-    "Kazakhstan"
-  ],
-  "pg-sw-bot.gigatapbot.top": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "51.250.85.164": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "clyde.ns.cloudflare.com": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "36.224.177.236": [
-    "🇹🇼",
-    "Taiwan"
-  ],
-  "82.38.31.193": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "m01c7b2z26dtqgee.v.3dns.vip": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "devoted-tapir.rooster465.autos": [
-    "🇺🇸",
-    "United States"
-  ],
-  "77.73.232.61": [
-    "🇰🇿",
-    "Kazakhstan"
-  ],
-  "82.38.31.213": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "node-uk.connectsuite.org": [
-    "🇬🇧",
-    "United Kingdom"
-  ],
-  "upwork.com": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "skilled-monster.rooster465.autos": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "15.204.97.216": [
-    "🇺🇸",
-    "United States"
-  ],
-  "cdn.netraidly.ru": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "103.186.154.174": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "83.222.25.62": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "77.42.77.66": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "ger1.speedtesty.xyz": [
-    "🏳️",
-    "Unknown"
-  ],
-  "194.61.121.93": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "fn1-azad.0xoddity.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "51.158.206.98": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "fj260404.freechatup.com": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "144.31.126.177": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "137.74.119.18": [
-    "🇫🇷",
-    "France"
-  ],
-  "pure-kodiak.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "31.129.42.216": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "al.spirako.com": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "158.160.53.57": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "144.31.0.234": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "104.171.132.102": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "82.38.31.16": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "trt.fastlynew.hosting-ip.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "91.240.87.166": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "185.18.250.252": [
-    "🇪🇸",
-    "Spain"
-  ],
-  "easy-barnacle.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "82.38.31.219": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "8.218.175.64": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "82.38.31.182": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "82.38.31.198": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "84.201.149.75": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "167.150.100.133": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "iq5ny.pleiades.codes": [
-    "🇬🇧",
-    "United Kingdom"
-  ],
-  "cf10.466688.xyz": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "208.67.105.196": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "194.55.239.114": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "77.90.41.197": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "185.206.170.90": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "104.26.6.23": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "3.112.238.99": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "54.249.80.161": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "38.54.59.107": [
-    "🇪🇬",
-    "Egypt"
-  ],
-  "47.244.120.197": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "156.244.36.105": [
-    "🇲🇲",
-    "Myanmar"
-  ],
-  "93.123.13.7": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "91.239.208.213": [
-    "🇫🇷",
-    "France"
-  ],
-  "82.38.31.195": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "moral-buzzard.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "43.201.49.96": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "89.39.70.85": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "104.17.122.10": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "103.186.155.224": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "vpn-tw-002.fastervpn.world": [
-    "🇹🇼",
-    "Taiwan"
-  ],
-  "128.204.223.94": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "206.71.158.41": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "205.237.109.212": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "87.228.122.108": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "45.131.212.4": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "91.106.109.73": [
-    "🇯🇴",
-    "Jordan"
-  ],
-  "46.246.97.195": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "167.68.4.199": [
-    "🇺🇸",
-    "United States"
-  ],
-  "5.188.115.159": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "shazira.app": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "40.160.69.214": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.87.175.165": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "152.67.8.205": [
-    "🇮🇳",
-    "India"
-  ],
-  "143.246.182.7": [
-    "🇬🇧",
-    "United Kingdom"
-  ],
-  "agt.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.67.174.37": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "91.199.84.120": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "noted-bass.rooster465.autos": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "188.34.193.153": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "82.38.31.42": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "node15.mxvpn.dev": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "144.31.119.216": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "82.38.31.180": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "funny-hen.rooster465.autos": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "stunning-mite.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "rb.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
-  ],
-  "155.248.209.237": [
-    "🇺🇸",
-    "United States"
-  ],
-  "r3mrcg001286ek2.cybervena.com": [
-    "🇹🇼",
-    "Taiwan"
-  ],
-  "103.186.155.35": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "104.17.162.123": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "api-1.de.orbit-escape.ru": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "104.18.152.219": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "54.213.89.22": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.27.84.29": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "guanwang.awsno.com": [
-    "🇺🇸",
-    "United States"
-  ],
-  "2b9hwy8ocx7q74nm.v.3dns.vip": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "163.171.207.11": [
-    "🇸🇦",
-    "Saudi Arabia"
+    "🇦🇺",
+    "Australia"
   ],
   "176.108.242.76": [
     "🇷🇺",
-    "Russia"
+    "Russian Federation"
   ],
-  "141.164.45.187": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "108.181.58.239": [
+  "82.38.31.47": [
     "🇳🇱",
-    "The Netherlands"
+    "Netherlands (Kingdom of the)"
   ],
-  "43.202.56.122": [
-    "🇰🇷",
-    "South Korea"
+  "45.131.209.30": [
+    "🇧🇿",
+    "Belize"
+  ],
+  "168.222.202.15": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "38.12.83.217": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.171.133.161": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "157.185.173.60": [
+    "🇧🇷",
+    "Brazil"
+  ],
+  "103.186.155.103": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "vruaz.mostserv.xyz": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "82.38.31.18": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "160.16.110.77": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "103.106.229.69": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "172.67.218.90": [
+    "🇺🇸",
+    "United States of America"
   ],
   "magazine.sentry-warrunner.xyz": [
     "🏳️",
     "Unknown"
   ],
-  "176.97.64.144": [
-    "🇸🇬",
-    "Singapore"
+  "helped-haddock.rooster465.autos": [
+    "🇮🇪",
+    "Ireland"
   ],
-  "103.186.155.52": [
+  "51.158.206.96": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "54.65.167.167": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "103.111.114.71": [
+    "🇮🇳",
+    "India"
+  ],
+  "172.67.135.69": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.18.250.252": [
+    "🇪🇸",
+    "Spain"
+  ],
+  "gamma-smart-agent-worker-wild.dlcnamatike7.com": [
+    "🏳️",
+    "Unknown"
+  ],
+  "52.196.121.8": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "51.158.206.87": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.26.6.23": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "whole-woodcock.rooster465.autos": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.20.6.134": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.137.157.72": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "45.80.111.7": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "103.186.154.164": [
     "🇻🇳",
-    "Vietnam"
+    "Viet Nam"
   ],
-  "185.244.208.210": [
+  "ace-starling.rooster465.autos": [
     "🇭🇰",
     "Hong Kong"
   ],
-  "104.18.12.229": [
-    "🇨🇦",
-    "Canada"
+  "n1747624274.4u9ma.icu": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "82.38.31.184": [
+  "43.250.54.155": [
     "🇳🇱",
-    "The Netherlands"
+    "Netherlands (Kingdom of the)"
   ],
-  "166.62.109.30": [
-    "🇺🇸",
-    "United States"
+  "funny-hen.rooster465.autos": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "104.171.132.185": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "relative-locust.rooster465.autos": [
+    "🇵🇱",
+    "Poland"
   ],
   "104.18.152.208": [
-    "🇨🇦",
-    "Canada"
+    "🇺🇸",
+    "United States of America"
+  ],
+  "nycqg19zkwacpm1b.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "45.89.105.74": [
+    "🇮🇳",
+    "India"
+  ],
+  "rush-w1niu.teeopp.online": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "mg.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "104.17.121.43": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "154.21.93.106": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.155.26": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "r3mrcg00129437x.cybervena.com": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "20.107.197.108": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "38.180.92.242": [
+    "🇫🇷",
+    "France"
+  ],
+  "cf2.466688.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "172.64.147.211": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "216.24.57.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "57.131.19.236": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "time.is": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "182.16.61.3": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "94.20.88.13": [
+    "🇦🇿",
+    "Azerbaijan"
+  ],
+  "51.195.203.247": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "clear-heron.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "103.186.154.154": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "great-krill.rooster465.autos": [
+    "🇫🇷",
+    "France"
+  ],
+  "31.58.50.200": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "65.109.178.10": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "217.30.10.70": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "45.131.212.14": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "n1744454498.lie5d.cyou": [
+    "🏳️",
+    "Unknown"
+  ],
+  "n1753598451.74qxv.top": [
+    "🏳️",
+    "Unknown"
+  ],
+  "158.160.53.57": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "51.44.160.58": [
+    "🇫🇷",
+    "France"
+  ],
+  "104.171.132.102": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "141.164.45.187": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "79.110.53.169": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "62.60.233.41": [
+    "🇹🇷",
+    "Turkiye"
+  ],
+  "45.88.172.154": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "72.56.36.96": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "dashing-bedbug.rooster465.autos": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "104.17.97.5": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "45.82.14.144": [
+    "🇰🇿",
+    "Kazakhstan"
+  ],
+  "45.87.175.190": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.141.221.200": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "35.181.195.29": [
+    "🇫🇷",
+    "France"
+  ],
+  "185.221.199.121": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "104.16.72.21": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "uncommon-feline.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "138.124.67.26": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "172.238.229.254": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "grand-grub.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "free1.barayekhudam.ir": [
+    "🏳️",
+    "Unknown"
+  ],
+  "literate-cow.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "trt.fastlynew.hosting-ip.com": [
+    "🏳️",
+    "Unknown"
+  ],
+  "134.209.191.114": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "103.186.154.159": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "agt.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "192.200.160.132": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ad-005.vector9nmb3.info": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "107.151.182.197": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "199.232.78.159": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "distinct-quail.rooster465.autos": [
+    "🇫🇷",
+    "France"
+  ],
+  "online2.moyanri.org": [
+    "🏳️",
+    "Unknown"
+  ],
+  "45.82.102.204": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "141.98.4.67": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "188.114.97.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "45.11.26.233": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "25.129.199.148": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "exotic-chow.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "103.186.155.51": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "3.36.59.34": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "163.171.181.29": [
+    "🇰🇼",
+    "Kuwait"
+  ],
+  "13.113.43.109": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "91.106.109.74": [
+    "🇯🇴",
+    "Jordan"
+  ],
+  "ro.h2corp.org": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "57.129.64.199": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "nl2.sferavpn.pro": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.38.31.16": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "192.0.63.30": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.17": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "141.98.101.182": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "fi-raiv2mmr-free.sliplane.app": [
+    "🏳️",
+    "Unknown"
+  ],
+  "ip.kickfarsi.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.156.44.99": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "194.26.229.218": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "78.135.73.38": [
+    "🇹🇷",
+    "Turkiye"
+  ],
+  "fans.liverpool.qzz.io": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "92.112.126.90": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "168.222.140.236": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "social-mutt.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "217.13.111.70": [
+    "🇭🇺",
+    "Hungary"
+  ],
+  "45.76.87.125": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "46.183.185.15": [
+    "🇲🇰",
+    "North Macedonia"
+  ],
+  "82.38.31.218": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "40.160.69.214": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "46.62.128.207": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "193.168.46.180": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "119.159.245.24": [
+    "🇵🇰",
+    "Pakistan"
+  ],
+  "103.186.155.13": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "support.zoom.us": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "176.97.73.215": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "91.99.82.11": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "82.38.31.199": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "maximum-elk.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "104.17.162.123": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "dgrns2.tracketbot.ir": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "193.238.153.15": [
+    "🇺🇦",
+    "Ukraine"
+  ],
+  "165.140.216.141": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "172.66.200.130": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "mh7r5ardl0z5jtgy.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "103.186.155.33": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "163.171.137.76": [
+    "🇺🇦",
+    "Ukraine"
+  ],
+  "45.83.20.206": [
+    "🇧🇪",
+    "Belgium"
+  ],
+  "46.183.185.37": [
+    "🇲🇰",
+    "North Macedonia"
+  ],
+  "lively-pine-093d.144-868.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "one-for-all.levikogjgfdd.ir": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "210.203.195.52": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "yapc-1.adamhayward.co.uk": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "45.131.4.118": [
+    "🇧🇿",
+    "Belize"
+  ],
+  "render.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "129.226.157.220": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "209.126.84.189": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "yg3.mangshe.xyz": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "205.237.109.219": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "proper-marlin.rooster465.autos": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "n1744454501.4u9ma.icu": [
+    "🏳️",
+    "Unknown"
+  ],
+  "162.159.140.78": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "25.26.27.158": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "103.186.155.60": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "43.207.140.98": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "node15.mxvpn.dev": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "193.124.204.145": [
+    "🇰🇿",
+    "Kazakhstan"
+  ],
+  "86.107.178.68": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "hy2.123266.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ar.paydar.site": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "infinite-tuna.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "194.26.229.219": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "25.129.197.138": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "44.246.163.102": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "vpn-us-002.fastervpn.world": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "144.31.126.177": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "163.171.213.47": [
+    "🇮🇱",
+    "Israel"
+  ],
+  "5.196.29.123": [
+    "🇫🇷",
+    "France"
+  ],
+  "154.223.20.79": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "108.181.118.10": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.35": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.38.31.210": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "stunning-mite.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "104.21.24.95": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "clyde.ns.cloudflare.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "upwork.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "45.82.102.245": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "163.171.137.72": [
+    "🇺🇦",
+    "Ukraine"
+  ],
+  "6jdvarazgu3qqr6q.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "148.253.211.10": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "162.159.152.53": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.154.52": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "46.250.240.80": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "103.186.154.216": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "definite-ladybird.rooster465.autos": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "speedtest.org": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "51.250.24.245": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "cindy58.ceoiii.com": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "dude.nicame.space": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "104.16.72.50": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "168.222.140.204": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "glorious-lark.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "192.71.166.100": [
+    "🇬🇷",
+    "Greece"
+  ],
+  "103.186.154.218": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "51.158.206.93": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.26.6.89": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "94.183.160.101": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
   ],
   "zudssgtmrqg9lpvi.v.3dns.vip": [
     "🇭🇰",
     "Hong Kong"
   ],
-  "ad-005.vector9nmb3.info": [
-    "🇨🇦",
-    "Canada"
+  "8.218.175.64": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "107.151.182.197": [
+  "cdn.netraidly.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "51.158.206.26": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "private.netraidly.ru": [
     "🇺🇸",
-    "United States"
+    "United States of America"
   ],
-  "sterling-macaw.rooster465.autos": [
+  "89.208.86.65": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "185.159.108.42": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "62.146.235.193": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "172.64.149.99": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "202.181.103.246": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "vpn-tw-002.fastervpn.world": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "137.74.119.18": [
+    "🇫🇷",
+    "France"
+  ],
+  "103.186.155.224": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "216.106.185.141": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "139.100.197.28": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "70.34.214.175": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "82.38.31.7": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "13.125.239.182": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "main-whippet.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "86.107.178.69": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "172.67.137.154": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "communal-sunbird.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "ip.sb": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "neth6.lckdwn.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "178.83.226.55": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "103.186.155.28": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "91.196.32.163": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "176.122.174.175": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "intimate-moray.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "51.195.116.82": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "172.66.40.99": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "one-quail.rooster465.autos": [
+    "🇫🇷",
+    "France"
+  ],
+  "45.131.212.9": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "103.90.75.252": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.18.152.219": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "brenna.ns.cloudflare.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "205.237.109.216": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "143.246.182.7": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ye.fxlcn.com": [
+    "🏳️",
+    "Unknown"
+  ],
+  "est.vrsvpn.com": [
+    "🇪🇪",
+    "Estonia"
+  ],
+  "194.233.73.51": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "51.158.206.34": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "chatgpt-async-webps-prod-centralus-0.chatgpt.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.155": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "185.153.197.5": [
+    "🇲🇩",
+    "Moldova (the Republic of)"
+  ],
+  "202.78.163.248": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "82.38.31.3": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.16.174.117": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "lcv8v9l7oyamxxfz.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "44.244.3.114": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "supreme-lobster.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "gr-raiv2mmr-free.sliplane.app": [
+    "🏳️",
+    "Unknown"
+  ],
+  "delilah.ns.cloudflare.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "87.228.101.34": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "31.76.76.26": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "45.139.27.86": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "pure-ram.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "45.89.107.51": [
+    "🇲🇾",
+    "Malaysia"
+  ],
+  "84.247.147.61": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "nearby-egret.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "better-molly.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "103.186.154.35": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "103.186.154.9": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "61.245.11.60": [
+    "🇵🇭",
+    "Philippines"
+  ],
+  "104.16.100.66": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "moved-meerkat.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "makevaslim.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.155.121": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "usa1.spectrumproxy.shop": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "213.226.112.208": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "54.74.210.220": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "sure-humpback.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "156.244.20.53": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "103.186.154.187": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "217.217.222.230": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "45.11.26.216": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "pl4.lckdwn.ru": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "darling-mutt.rooster465.autos": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "47.250.135.244": [
+    "🇲🇾",
+    "Malaysia"
+  ],
+  "grateful-crawdad.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "45.67.139.37": [
+    "🇫🇷",
+    "France"
+  ],
+  "pavosilene.qzz.io": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.148.107.40": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.17.77.77": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "89.208.228.167": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "172.67.190.141": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "n1753598448.74qxv.top": [
+    "🏳️",
+    "Unknown"
+  ],
+  "129.146.77.248": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.16.71.213": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "172.67.136.244": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "fr1.levikogjgfdd.ir": [
+    "🇫🇷",
+    "France"
+  ],
+  "43.201.49.96": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "212.227.102.223": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "146.75.64.0": [
+    "🇦🇪",
+    "United Arab Emirates"
+  ],
+  "84.201.179.244": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "up-dinosaur.rooster465.autos": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "172.67.81.7": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "one.cf.cdn.hyli.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "capable-jay.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "fj260205.freechatup.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "172.64.144.251": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "163.171.137.66": [
+    "🇺🇦",
+    "Ukraine"
+  ],
+  "trtw.fastlynew.hosting-ip.com": [
+    "🏳️",
+    "Unknown"
+  ],
+  "104.26.15.85": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "thorough-falcon.rooster465.autos": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "202.47.89.133": [
+    "🇮🇩",
+    "Indonesia"
+  ],
+  "82.38.31.15": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "194.26.229.210": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "s1243.gogocs.xyz": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "67.220.72.237": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "66.81.247.155": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "31.77.196.201": [
     "🇩🇪",
     "Germany"
   ],
@@ -1675,1271 +1339,1607 @@
     "🏳️",
     "Unknown"
   ],
-  "31.76.30.79": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "103.186.154.231": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "relative-locust.rooster465.autos": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "5.196.29.123": [
-    "🇫🇷",
-    "France"
-  ],
-  "exciting-grizzly.rooster465.autos": [
+  "103.75.118.125": [
     "🇯🇵",
     "Japan"
   ],
-  "216.24.57.6": [
-    "🇺🇸",
-    "United States"
-  ],
-  "47.250.45.234": [
-    "🇲🇾",
-    "Malaysia"
-  ],
-  "103.111.114.82": [
-    "🇮🇳",
-    "India"
-  ],
-  "103.186.154.159": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "119.159.245.24": [
-    "🇵🇰",
-    "Pakistan"
-  ],
-  "185.231.233.112": [
-    "🇵🇹",
-    "Portugal"
-  ],
-  "upward-puma.rooster465.autos": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "153.52.92.160": [
-    "🇹🇷",
-    "Turkey"
-  ],
-  "chief-cricket.rooster465.autos": [
-    "🇫🇷",
-    "France"
-  ],
-  "moved-meerkat.rooster465.autos": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "202.181.103.246": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "216.105.168.18": [
-    "🇺🇸",
-    "United States"
-  ],
-  "176.97.73.215": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "104.17.121.43": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "3.36.131.218": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "103.186.154.74": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "unbiased-garfish.rooster465.autos": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "45.130.125.160": [
-    "🇸🇨",
-    "Seychelles"
-  ],
-  "93ucrn4i0pffuabk.v.3dns.vip": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "104.21.66.223": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "3.38.106.2": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "zeus-panel-9d4h7u.zeus-12g9x8.workers.dev": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "638985047311782755.abadan-drcn-aaaai.info": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "66.163.117.58": [
-    "🇬🇧",
-    "United Kingdom"
-  ],
-  "103.186.154.42": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "141.11.187.119": [
+  "195.254.165.243": [
     "🇳🇱",
-    "The Netherlands"
+    "Netherlands (Kingdom of the)"
   ],
-  "201.51.12.73": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "104.17.21.32": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "109.201.152.181": [
+  "45.87.175.177": [
     "🇳🇱",
-    "The Netherlands"
+    "Netherlands (Kingdom of the)"
   ],
-  "103.186.154.35": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "tun.thuglife.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "15.204.97.214": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.12.75.242": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "172.67.81.7": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "ce0gedpxwou6cqon.v.3dns.vip": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "devoted-heron.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "38.91.107.49": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.84.196.56": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "main-whippet.rooster465.autos": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "43.203.247.197": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "103.186.154.9": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "139.100.197.28": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "85.192.48.238": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "108.181.0.177": [
-    "🇺🇸",
-    "United States"
-  ],
-  "202.37.33.80": [
-    "🇳🇿",
-    "New Zealand"
-  ],
-  "206.71.158.40": [
+  "86.107.178.66": [
     "🇳🇱",
-    "The Netherlands"
-  ],
-  "46.183.185.37": [
-    "🇲🇰",
-    "North Macedonia"
-  ],
-  "ip.kickfarsi.com": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "104.26.6.89": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "134.209.191.114": [
-    "🇬🇧",
-    "United Kingdom"
-  ],
-  "107.181.151.241": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "82.38.31.192": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "82.38.31.216": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "103.172.134.162": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "185.79.138.71": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "154.90.60.117": [
-    "🇧🇷",
-    "Brazil"
-  ],
-  "45.139.27.86": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "91.106.109.17": [
-    "🇯🇴",
-    "Jordan"
-  ],
-  "103.186.155.32": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "141.98.101.178": [
-    "🇬🇧",
-    "United Kingdom"
-  ],
-  "205.237.109.213": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "205.237.109.216": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "103.186.154.187": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "62.210.91.10": [
-    "🇫🇷",
-    "France"
-  ],
-  "103.186.154.69": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "grateful-crawdad.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "104.21.89.181": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "104.17.121.71": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "n1744454501.4u9ma.icu": [
-    "🏳️",
-    "Unknown"
-  ],
-  "enough-basilisk.rooster465.autos": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "n1761214907.74qxv.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "5.182.37.87": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "82.38.31.35": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "18.181.194.227": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "38.180.92.242": [
-    "🇫🇷",
-    "France"
-  ],
-  "159.223.157.129": [
-    "🇺🇸",
-    "United States"
-  ],
-  "220.130.75.247": [
-    "🇹🇼",
-    "Taiwan"
-  ],
-  "great-krill.rooster465.autos": [
-    "🇫🇷",
-    "France"
-  ],
-  "103.186.154.150": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "188.114.96.3": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "103.186.155.51": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "51.250.99.49": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "51.158.206.29": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "84.201.143.90": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "129.146.143.80": [
-    "🇺🇸",
-    "United States"
-  ],
-  "drhystuichdfy.samanidempire.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "212.67.9.113": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "103.186.154.62": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "172.64.144.251": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "45.139.26.104": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "104.18.8.83": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "130.250.137.171": [
-    "🇺🇸",
-    "United States"
-  ],
-  "91.132.94.200": [
-    "🇸🇮",
-    "Slovenia"
-  ],
-  "15.237.137.197": [
-    "🇫🇷",
-    "France"
-  ],
-  "18.181.175.120": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "82.38.31.17": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "healthy-louse.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "emerging-weevil.rooster465.autos": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "fans.liverpool.qzz.io": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "82.38.31.11": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "pg-usa2-hy2.gigatapbot.top": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.196.224.79": [
-    "🇫🇷",
-    "France"
-  ],
-  "167.179.34.13": [
-    "🇹🇭",
-    "Thailand"
-  ],
-  "yapc-1.adamhayward.co.uk": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "152.67.218.38": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "163.171.137.66": [
-    "🇺🇦",
-    "Ukraine"
-  ],
-  "grateful-owl.rooster465.autos": [
-    "🇰🇷",
-    "South Korea"
-  ],
-  "www.nextkyc.com": [
-    "🇨🇦",
-    "Canada"
+    "Netherlands (Kingdom of the)"
   ],
   "82.115.21.139": [
     "🇩🇪",
     "Germany"
   ],
-  "93.152.223.98": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "51.250.24.245": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "server3.pegibol940.workers.dev": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "46.253.132.135": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "3.112.29.46": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "103.186.155.18": [
-    "🇻🇳",
-    "Vietnam"
-  ],
-  "156.146.38.169": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.16.174.71": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "217.30.10.18": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "61.245.11.60": [
-    "🇵🇭",
-    "Philippines"
-  ],
-  "fr.vpn.legendaah.xyz": [
+  "tough-hermit.rooster465.autos": [
     "🇫🇷",
     "France"
   ],
-  "gamma-smart-agent-worker-wild.dlcnamatike7.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.21.55.229": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "108.181.118.10": [
-    "🇺🇸",
-    "United States"
-  ],
-  "142.249.37.90": [
-    "🇺🇸",
-    "United States"
-  ],
-  "57.180.13.78": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "online2.moyanri.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.187": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "tough-robin.rooster465.autos": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "178.83.226.55": [
-    "🇨🇭",
-    "Switzerland"
-  ],
-  "deadseectelegram.slimshopboyss.ir": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "43.207.139.153": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "8.35.211.224": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.16.98.215": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "cf2.466688.xyz": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "185.229.9.236": [
+  "95.129.236.252": [
     "🇷🇺",
-    "Russia"
+    "Russian Federation"
   ],
-  "172.67.136.244": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "138.124.67.26": [
-    "🇳🇱",
-    "The Netherlands"
-  ],
-  "pg-sp2-443-vless-tcp.gigatapbot.top": [
-    "🇪🇸",
-    "Spain"
-  ],
-  "ad-007.cloud25075.info": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "45.82.102.245": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "45.131.212.9": [
+  "45.139.26.133": [
     "🇷🇺",
-    "Russia"
+    "Russian Federation"
   ],
-  "lcv8v9l7oyamxxfz.v.3dns.vip": [
+  "65.109.208.236": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "mtckundigepwu3up.v.3dns.vip": [
     "🇭🇰",
     "Hong Kong"
   ],
-  "45.131.212.14": [
+  "23.27.20.142": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "84.201.140.155": [
     "🇷🇺",
-    "Russia"
+    "Russian Federation"
   ],
-  "2001:bc8:32d7:302::11": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.131.212.7": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "108.162.195.58": [
-    "🇨🇦",
-    "Canada"
-  ],
-  "172.111.146.64": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "87.242.85.201": [
-    "🇷🇺",
-    "Russia"
-  ],
-  "71.19.148.143": [
-    "🇺🇸",
-    "United States"
-  ],
-  "178.83.45.29": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "89.23.123.59": [
-    "🇩🇪",
-    "Germany"
+  "94.183.124.95": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
   ],
   "3.113.24.17": [
     "🇯🇵",
     "Japan"
   ],
-  "154.205.139.9": [
+  "picked-guinea.rooster465.autos": [
     "🇯🇵",
     "Japan"
   ],
-  "151.101.169.242": [
-    "🇺🇸",
-    "United States"
+  "sacred-hound.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
-  "speedtest.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "support.zoom.us": [
-    "🏳️",
-    "Unknown"
-  ],
-  "35.88.120.18": [
-    "🏳️",
-    "Unknown"
-  ],
-  "cindy58.ceoiii.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pl134.vpnbook.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.16.174.121": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fr1.levikogjgfdd.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.26.15.137": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.158.206.93": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.44.160.58": [
-    "🏳️",
-    "Unknown"
-  ],
-  "updates.kermanshahi.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "makevaslim.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.17.28.89": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.200": [
-    "🏳️",
-    "Unknown"
-  ],
-  "de151.mechvpn.online": [
-    "🏳️",
-    "Unknown"
-  ],
-  "mci.yektanet.info": [
-    "🏳️",
-    "Unknown"
-  ],
-  "lively-pine-093d.144-868.workers.dev": [
-    "🏳️",
-    "Unknown"
-  ],
-  "163.171.115.28": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.214": [
-    "🏳️",
-    "Unknown"
-  ],
-  "whole-woodcock.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "uncommon-feline.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "62.146.235.193": [
-    "🏳️",
-    "Unknown"
-  ],
-  "162.159.140.78": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ad-005.zen2bswa.info": [
-    "🏳️",
-    "Unknown"
-  ],
-  "possible-yeti.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "95.164.123.231": [
-    "🏳️",
-    "Unknown"
-  ],
-  "43.203.119.20": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.16.174.36": [
-    "🏳️",
-    "Unknown"
-  ],
-  "176.122.27.101": [
-    "🏳️",
-    "Unknown"
-  ],
-  "212.95.34.97": [
-    "🏳️",
-    "Unknown"
-  ],
-  "5.175.249.117": [
-    "🏳️",
-    "Unknown"
-  ],
-  "46.246.92.109": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ad-020.limaklhc6.info": [
-    "🏳️",
-    "Unknown"
-  ],
-  "57.129.64.199": [
-    "🏳️",
-    "Unknown"
-  ],
-  "de.vrsvpn.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.171.132.185": [
-    "🏳️",
-    "Unknown"
+  "glorious-glider.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
   "107.181.151.39": [
+    "🇱🇹",
+    "Lithuania"
+  ],
+  "156.146.38.167": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "de2.vpn.legendaah.xyz": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "152.67.218.38": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "103.172.134.162": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "striking-maggot.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "72.56.247.70": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "13.113.89.229": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "discrete-basilisk.rooster465.autos": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "192.71.166.102": [
+    "🇬🇷",
+    "Greece"
+  ],
+  "104.16.73.213": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "91.106.109.73": [
+    "🇯🇴",
+    "Jordan"
+  ],
+  "185.247.16.4": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "relaxed-gull.rooster465.autos": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "103.36.91.23": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "teaching-gnu.rooster465.autos": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "212.192.14.227": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "140.83.51.161": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "3.113.1.131": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "159.223.157.129": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "217.13.104.101": [
+    "🇭🇺",
+    "Hungary"
+  ],
+  "fn1-azad.0xoddity.ir": [
     "🏳️",
     "Unknown"
   ],
-  "prepared-thrush.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "premium-weevil.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
   ],
-  "46.254.18.27": [
-    "🏳️",
-    "Unknown"
+  "billing.netraidly.ru": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "13.125.239.182": [
-    "🏳️",
-    "Unknown"
+  "3.112.223.141": [
+    "🇯🇵",
+    "Japan"
   ],
-  "129.226.157.220": [
-    "🏳️",
-    "Unknown"
+  "47.250.45.234": [
+    "🇲🇾",
+    "Malaysia"
   ],
-  "64.188.82.15": [
-    "🏳️",
-    "Unknown"
+  "51.195.233.191": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
   ],
-  "est.vrsvpn.com": [
-    "🏳️",
-    "Unknown"
+  "185.136.12.190": [
+    "🇩🇪",
+    "Germany"
   ],
-  "216.106.183.35": [
-    "🏳️",
-    "Unknown"
+  "38.107.234.57": [
+    "🇰🇿",
+    "Kazakhstan"
   ],
-  "109.73.196.160": [
-    "🏳️",
-    "Unknown"
+  "38.54.76.8": [
+    "🇦🇪",
+    "United Arab Emirates"
   ],
-  "154.26.156.99": [
-    "🏳️",
-    "Unknown"
+  "35.86.90.51": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "78.135.73.38": [
-    "🏳️",
-    "Unknown"
+  "108.181.0.177": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "R3MRCG00129437X.cybervena.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pg-sp-443-vless-tcp.gigatapbot.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.67.179.98": [
-    "🏳️",
-    "Unknown"
-  ],
-  "217.198.12.29": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.87.175.190": [
-    "🏳️",
-    "Unknown"
-  ],
-  "nearby-egret.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "integral-quetzal.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.18.152.159": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.238.229.254": [
-    "🏳️",
-    "Unknown"
-  ],
-  "217.217.222.230": [
-    "🏳️",
-    "Unknown"
-  ],
-  "147.78.1.230": [
-    "🏳️",
-    "Unknown"
-  ],
-  "217.30.10.70": [
-    "🏳️",
-    "Unknown"
-  ],
-  "vod.filmmet.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.158.206.26": [
-    "🏳️",
-    "Unknown"
-  ],
-  "better-molly.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "194.26.229.211": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.158.206.34": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pg-de-443-vless-tcp.gigatapbot.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fj260203.freechatup.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "together-dingo.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "173.245.58.121": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.158.206.97": [
-    "🏳️",
-    "Unknown"
-  ],
-  "awsfrance.parhamm1.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "15.204.97.195": [
-    "🏳️",
-    "Unknown"
+  "188.116.23.244": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
   "mfa.gov.ua": [
-    "🏳️",
-    "Unknown"
+    "🇺🇸",
+    "United States of America"
   ],
-  "168.138.43.75": [
-    "🏳️",
-    "Unknown"
+  "47.129.9.33": [
+    "🇸🇬",
+    "Singapore"
   ],
-  "mg.xn--mes13n8pi8x2b.shop": [
-    "🏳️",
-    "Unknown"
+  "213.226.112.213": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "148.253.211.10": [
-    "🏳️",
-    "Unknown"
+  "3.34.186.19": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
-  "185.244.208.13": [
-    "🏳️",
-    "Unknown"
+  "51.79.103.76": [
+    "🇨🇦",
+    "Canada"
   ],
-  "185.229.9.74": [
-    "🏳️",
-    "Unknown"
+  "mci.pictureiran.ir": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "18.181.164.216": [
-    "🏳️",
-    "Unknown"
+  "safe-frog.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
   ],
-  "25.129.197.138": [
-    "🏳️",
-    "Unknown"
+  "7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "103.186.154.154": [
-    "🏳️",
-    "Unknown"
+  "www.zsu.gov.ua": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "hk1.shiyuandian.shop": [
-    "🏳️",
-    "Unknown"
+  "66.163.117.58": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "104.18.12.229": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "13.230.118.96": [
+    "🇯🇵",
+    "Japan"
   ],
   "tw.xn--mes13n8pi8x2b.shop": [
     "🏳️",
     "Unknown"
   ],
-  "log.bpminecraft.com": [
-    "🏳️",
-    "Unknown"
+  "104.27.84.29": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "51.158.206.8": [
-    "🏳️",
-    "Unknown"
-  ],
-  "dashing-bedbug.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "202.78.163.148": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.11.184.233": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.154.39": [
-    "🏳️",
-    "Unknown"
-  ],
-  "67.220.85.46": [
-    "🏳️",
-    "Unknown"
-  ],
-  "44.242.235.129": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.106.229.69": [
-    "🏳️",
-    "Unknown"
-  ],
-  "sec2.masterdpibypass.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "r3mrcg00129437x.cybervena.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "89.39.70.143": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2a14:3f87:f001:13::a": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.71": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2c.fast9988.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "156.244.19.94": [
-    "🏳️",
-    "Unknown"
-  ],
-  "43.201.46.108": [
-    "🏳️",
-    "Unknown"
-  ],
-  "www.calmlunch.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "literate-cow.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.16.174.6": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.203": [
-    "🏳️",
-    "Unknown"
-  ],
-  "31.77.196.201": [
-    "🏳️",
-    "Unknown"
+  "wanted-marmoset.rooster465.autos": [
+    "🇦🇺",
+    "Australia"
   ],
   "moved-bluegill.rooster465.autos": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "172.67.134.185": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.115.109.49": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "82.198.246.37": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "ad-020.limaklhc6.info": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "163.171.115.28": [
+    "🇲🇾",
+    "Malaysia"
+  ],
+  "zeus-panel-9d4h7u.zeus-12g9x8.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "77.42.77.66": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "upright-hamster.rooster465.autos": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "ad-020.vector9nmb3.info": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "216.105.168.18": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "94.156.155.27": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "185.244.208.210": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "103.111.114.82": [
+    "🇮🇳",
+    "India"
+  ],
+  "flat-night-edd0.hosein9saleazhuongooyeh87.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "13.231.232.184": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "13.36.175.151": [
+    "🇫🇷",
+    "France"
+  ],
+  "162.159.38.119": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "91.106.109.17": [
+    "🇯🇴",
+    "Jordan"
+  ],
+  "fn2-unlimited.pavilof.ir": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "104.20.23.154": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.117.0.185": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "172.66.156.81": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "54.249.80.161": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "185.79.138.71": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "23.150.248.20": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "15.235.75.71": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "95.164.123.231": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "104.16.72.41": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "188.34.193.153": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "104.21.66.223": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.183": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "45.130.125.112": [
+    "🇸🇨",
+    "Seychelles"
+  ],
+  "57.180.13.78": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "ad-020.vector2llqn.info": [
     "🏳️",
     "Unknown"
   ],
-  "192.71.166.102": [
+  "cf3.466688.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "40.160.4.127": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "cindy50.ceoiii.com": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "202.37.33.80": [
+    "🇳🇿",
+    "New Zealand"
+  ],
+  "ad-007.cloud25075.info": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "52.79.160.55": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "104.17.121.71": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "fj260404.freechatup.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.189": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.149.183.10": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "s3.zynetraq.ir": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "43.174.247.53": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "46.243.142.184": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "45.12.75.242": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "pg-sp2-443-vless-tcp.gigatapbot.top": [
+    "🇪🇸",
+    "Spain"
+  ],
+  "together-dingo.rooster465.autos": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "156.244.19.94": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "5.255.102.165": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "155.248.209.237": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "wwafj5lhl6bi8au9.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "pg-sw-bot.gigatapbot.top": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "163.171.181.30": [
+    "🇰🇼",
+    "Kuwait"
+  ],
+  "real-werewolf.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "5.129.235.85": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "77.90.41.197": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "2001:bc8:32d7:302::10": [
     "🏳️",
     "Unknown"
   ],
-  "51.250.75.212": [
+  "185.237.185.160": [
+    "🇱🇹",
+    "Lithuania"
+  ],
+  "79.127.227.53": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "pure-kodiak.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "cloudfire.ir": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "217.198.12.29": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "18.181.194.227": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "gorbachev-th.kvnfreetest.uk": [
+    "🇹🇭",
+    "Thailand"
+  ],
+  "2a0c:4ac1:8::121": [
     "🏳️",
     "Unknown"
   ],
-  "pure-ram.rooster465.autos": [
+  "104.26.15.137": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.163.204.94": [
+    "🇭🇺",
+    "Hungary"
+  ],
+  "156.244.36.105": [
+    "🇲🇲",
+    "Myanmar"
+  ],
+  "154.46.31.106": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "72.56.92.177": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "pg-sw-443-vless-tcp.gigatapbot.top": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "game-firefly.rooster465.autos": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "104.18.152.133": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "213.226.112.199": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "193.124.57.208": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "212.95.34.97": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "pl134.vpnbook.com": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "15.204.97.195": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "45.130.125.160": [
+    "🇸🇨",
+    "Seychelles"
+  ],
+  "198.23.130.211": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "moral-buzzard.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "emerging-weevil.rooster465.autos": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "158.173.20.208": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "95.164.116.33": [
+    "🇹🇷",
+    "Turkiye"
+  ],
+  "178.83.45.29": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "log.bpminecraft.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "enough-basilisk.rooster465.autos": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "213.159.66.206": [
+    "🇲🇩",
+    "Moldova (the Republic of)"
+  ],
+  "easy-barnacle.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "103.186.155.32": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "47.244.120.197": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "iq5ny.pleiades.codes": [
+    "🇧🇪",
+    "Belgium"
+  ],
+  "al.spirako.com": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "r3mrcg001287h3p.cybervena.com": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "www.calmlunch.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.198.246.233": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "108.162.195.58": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "94.183.188.132": [
+    "🇫🇷",
+    "France"
+  ],
+  "87.121.82.132": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "mmd-production-13bc.up.railway.app": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "43.207.166.211": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "84.201.143.90": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "main-impala.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "154.90.62.145": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "13.229.110.73": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "13.125.144.78": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "8.35.211.87": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.17.21.137": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "drhystuichdfy.samanidempire.org": [
     "🏳️",
     "Unknown"
   ],
-  "163.171.181.29": [
+  "176.122.27.101": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "104.171.137.109": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "172.111.146.64": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "85.192.48.238": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "70.39.198.35": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "35.72.13.34": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "cdn-cloudflare91.korvexe.ir": [
     "🏳️",
     "Unknown"
   ],
-  "103.186.154.156": [
-    "🏳️",
-    "Unknown"
+  "38.91.107.49": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "91.224.87.181": [
-    "🏳️",
-    "Unknown"
+  "104.16.174.37": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "193.238.153.15": [
-    "🏳️",
-    "Unknown"
+  "185.247.16.3": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "85.204.107.164": [
-    "🏳️",
-    "Unknown"
+  "159.89.87.21": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "pavosilene.qzz.io": [
-    "🏳️",
-    "Unknown"
+  "deadseectelegram.slimshopboyss.ir": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "52.196.121.8": [
-    "🏳️",
-    "Unknown"
+  "167.179.34.13": [
+    "🇹🇭",
+    "Thailand"
   ],
-  "yellow-hall-d482.260-d22.workers.dev": [
-    "🏳️",
-    "Unknown"
-  ],
-  "193.29.139.168": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fj260204.freechatup.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "infinite-tuna.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "85.192.48.235": [
+    "🇫🇮",
+    "Finland"
   ],
   "149.88.23.207": [
-    "🏳️",
-    "Unknown"
+    "🇸🇬",
+    "Singapore"
   ],
-  "51.195.203.247": [
-    "🏳️",
-    "Unknown"
+  "n1761296892.4u9ma.icu": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "217.16.27.113": [
-    "🏳️",
-    "Unknown"
+  "172.67.195.229": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "91.99.82.11": [
-    "🏳️",
-    "Unknown"
+  "185.244.208.13": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "104.171.137.176": [
-    "🏳️",
-    "Unknown"
+  "15.204.97.216": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "51.158.206.87": [
-    "🏳️",
-    "Unknown"
+  "185.91.54.143": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "autos.jykvpn.com": [
-    "🏳️",
-    "Unknown"
+  "polished-imp.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
   ],
-  "maximum-elk.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "51.250.75.212": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "77.233.214.31": [
-    "🏳️",
-    "Unknown"
+  "104.16.174.44": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "51.250.85.164": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "tough-robin.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "54.213.89.22": [
+    "🇺🇸",
+    "United States of America"
   ],
   "n1761214915.mv7wh.tech": [
     "🏳️",
     "Unknown"
   ],
-  "n1744454498.lie5d.cyou": [
+  "103.186.155.52": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "fj260304.freechatup.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "5.75.196.88": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "16.145.201.0": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "212.227.231.38": [
+    "🇪🇸",
+    "Spain"
+  ],
+  "eager-camel.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "pg-sp2-bot.gigatapbot.top": [
+    "🇪🇸",
+    "Spain"
+  ],
+  "82.38.31.195": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.120.178.193": [
+    "🇮🇳",
+    "India"
+  ],
+  "88.214.24.235": [
+    "🇫🇷",
+    "France"
+  ],
+  "104.16.174.121": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.17.122.10": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "36.224.177.236": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "82.38.31.186": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "sterling-macaw.rooster465.autos": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "87.228.122.108": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "220.130.75.247": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "82.38.31.219": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "43.207.139.153": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "hy2.561891.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "180.178.60.253": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.155.236": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "8.35.211.43": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "humorous-malamute.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "93.152.223.98": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "172.64.145.38": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.17.28.89": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "twdx6.baidupi.top": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "fr76.mechvpn.online": [
     "🏳️",
     "Unknown"
   ],
-  "168.222.140.236": [
-    "🏳️",
-    "Unknown"
+  "i2psm3knof5qjjix.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "186.246.19.79": [
-    "🏳️",
-    "Unknown"
+  "82.38.31.212": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "104.17.181.19": [
-    "🏳️",
-    "Unknown"
+  "prepared-monitor.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
-  "104.21.23.72": [
-    "🏳️",
-    "Unknown"
-  ],
-  "44.246.163.102": [
-    "🏳️",
-    "Unknown"
-  ],
-  "66.245.193.152": [
-    "🏳️",
-    "Unknown"
-  ],
-  "exotic-chow.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.166.184.134": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.131.209.30": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.154.17": [
-    "🏳️",
-    "Unknown"
-  ],
-  "polished-imp.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.67.218.38": [
-    "🏳️",
-    "Unknown"
-  ],
-  "62.100.205.48": [
-    "🏳️",
-    "Unknown"
-  ],
-  "sc-thenetherlands1.09vpn.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "176.120.17.21": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.80.111.7": [
-    "🏳️",
-    "Unknown"
-  ],
-  "broad-truth-e988.258-217.workers.dev": [
-    "🏳️",
-    "Unknown"
-  ],
-  "dude.nicame.space": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.17.164.123": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.156.233.234": [
-    "🏳️",
-    "Unknown"
-  ],
-  "43hic3j.futurebalhbyh.lat": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pg-usa-bot.gigatapbot.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "43.201.56.44": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.17.111.8": [
-    "🏳️",
-    "Unknown"
+  "163.171.206.24": [
+    "🇮🇳",
+    "India"
   ],
   "104.18.13.229": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "85.92.111.38": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "cf10.466688.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "156.146.38.169": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.154.77": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "15.204.97.214": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "15.204.97.206": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "172.67.149.60": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.205": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "80.93.52.44": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "zula.ir": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "51.158.206.103": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "45.146.131.97": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "healthy-panda.rooster465.autos": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "67.220.95.3": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "70.39.178.204": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "40.160.4.20": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "83.222.25.62": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "45.90.32.132": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "51.195.126.38": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "132.145.200.43": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "51.250.8.129": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "45.87.175.165": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "unbiased-garfish.rooster465.autos": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "185.225.19.39": [
+    "🇷🇴",
+    "Romania"
+  ],
+  "104.21.4.124": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "165.215.250.14": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.214": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "15.204.97.198": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "205.237.109.221": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "38.60.221.117": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "93.152.207.254": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "172.67.218.38": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "109.61.39.150": [
+    "🇰🇿",
+    "Kazakhstan"
+  ],
+  "18.178.132.111": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "152.67.8.205": [
+    "🇮🇳",
+    "India"
+  ],
+  "shazira.app": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "176.109.108.83": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "185.193.49.88": [
+    "🇪🇪",
+    "Estonia"
+  ],
+  "217.30.10.18": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "103.186.154.42": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "193.29.139.225": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "52.76.177.127": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "82.38.31.211": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "207.56.227.226": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "possible-yeti.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "47.253.226.114": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.16.97.215": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "170.114.46.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "38.180.135.156": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "exciting-grizzly.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "u2frxj0g13vdi0wo.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "15.204.97.219": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.155.122": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "ez-041a82.ezaccess1225a0b.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.154.200": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "nld26.luckernld.org": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "103.186.155.84": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "fj260203.freechatup.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "45.139.26.104": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "91.239.208.213": [
+    "🇫🇷",
+    "France"
+  ],
+  "84.201.149.75": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "104.171.135.186": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "109.73.196.160": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "216.106.183.35": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "api-1.de.orbit-escape.ru": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "ooooooof.ir.fizikade.ir": [
     "🏳️",
     "Unknown"
   ],
-  "5.255.102.165": [
+  "208.87.243.187": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.16.174.36": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "46.246.97.195": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "93.123.13.7": [
+    "🇧🇬",
+    "Bulgaria"
+  ],
+  "103.186.154.174": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "autos.jykvpn.com": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "82.38.31.208": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "3.35.140.99": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "45.87.175.157": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "tun.thuglife.ir": [
     "🏳️",
     "Unknown"
+  ],
+  "45.131.212.7": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "103.186.154.69": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "pet-ghost.rooster465.autos": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ger1.speedtesty.xyz": [
+    "🏳️",
+    "Unknown"
+  ],
+  "2b9hwy8ocx7q74nm.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "46.246.92.109": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "82.38.31.180": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "138.124.113.18": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "51.158.206.98": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "166.62.108.30": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "154.205.145.37": [
+    "🇵🇰",
+    "Pakistan"
+  ],
+  "103.186.155.35": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "103.186.155.62": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "57.180.27.225": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "2001:bc8:32d7:225::3": [
+    "🏳️",
+    "Unknown"
+  ],
+  "fj260204.freechatup.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "195.63.141.201": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "79.175.134.49": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "rush-72frf.meeopp.site": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "151.101.169.242": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "195.85.59.30": [
+    "🇨🇾",
+    "Cyprus"
+  ],
+  "43.203.119.20": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "212.67.9.113": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "205.237.109.213": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "15.235.41.200": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "cf.090227.xyz": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.154.67": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "91.224.75.31": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "de.vrsvpn.com": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "nl1.noesissite.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "176.109.106.68": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "141.98.87.48": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "188.114.97.7": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "138.124.68.188": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "3.36.131.218": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "43.201.103.8": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "ad-005.zen2bswa.info": [
+    "🏳️",
+    "Unknown"
+  ],
+  "103.186.154.39": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "104.171.136.172": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "172.67.174.37": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "35.88.120.18": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "upright-impala.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "vod.filmmet.ir": [
+    "🏳️",
+    "Unknown"
+  ],
+  "43.203.247.197": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "89.23.123.59": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "x4g-production-06e2.up.railway.app": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.207": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "fleet-bonefish.rooster465.autos": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ad-020.novayjr9g.info": [
+    "🏳️",
+    "Unknown"
+  ],
+  "172.67.153.110": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "host-vds2-fr.kvncococ.org": [
+    "🇫🇷",
+    "France"
+  ],
+  "cindy52.ceoiii.com": [
+    "🇲🇾",
+    "Malaysia"
+  ],
+  "38.110.1.246": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "46.243.142.89": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "pg-usa2-bot.gigatapbot.top": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "172.67.179.98": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "8.6.112.0": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "38.54.59.107": [
+    "🇪🇬",
+    "Egypt"
+  ],
+  "vpn-kr-003.fastervpn.world": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "7timuei1uufoixbf.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "www.nextkyc.com": [
+    "🇺🇸",
+    "United States of America"
   ],
   "217.13.104.134": [
+    "🇭🇺",
+    "Hungary"
+  ],
+  "51.158.206.25": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "awsfrance.parhamm1.ir": [
     "🏳️",
     "Unknown"
   ],
-  "45.76.87.125": [
+  "104.18.152.159": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "integral-quetzal.rooster465.autos": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "54.180.228.238": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "103.186.154.251": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "107.181.151.241": [
+    "🇱🇹",
+    "Lithuania"
+  ],
+  "15.237.137.197": [
+    "🇫🇷",
+    "France"
+  ],
+  "51.250.39.121": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "82.38.31.192": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.198.246.250": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "8.35.211.224": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "45.196.224.79": [
+    "🇫🇷",
+    "France"
+  ],
+  "46.253.132.135": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "103.186.154.143": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "103.186.155.18": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "173.245.58.162": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.38.31.176": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.171.137.176": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "72.56.81.165": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.38.31.213": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.186.155.37": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "de.zarasite.ir": [
     "🏳️",
     "Unknown"
   ],
@@ -2947,1324 +2947,1348 @@
     "🏳️",
     "Unknown"
   ],
-  "92.223.62.214": [
-    "🏳️",
-    "Unknown"
-  ],
-  "206.71.158.37": [
-    "🏳️",
-    "Unknown"
-  ],
-  "205.237.109.220": [
-    "🏳️",
-    "Unknown"
-  ],
-  "94.183.124.95": [
-    "🏳️",
-    "Unknown"
-  ],
-  "158.160.198.23": [
-    "🏳️",
-    "Unknown"
-  ],
-  "dgrns2.tracketbot.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "proper-marlin.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "202.146.222.29": [
-    "🏳️",
-    "Unknown"
-  ],
-  "188.114.97.7": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.42": [
-    "🏳️",
-    "Unknown"
-  ],
-  "tu2.petshopcloud.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "estproxy2.lockdwn.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.250.21.184": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.207": [
-    "🏳️",
-    "Unknown"
-  ],
-  "57.131.19.236": [
-    "🏳️",
-    "Unknown"
-  ],
-  "84.201.179.244": [
-    "🏳️",
-    "Unknown"
-  ],
-  "35.86.90.51": [
-    "🏳️",
-    "Unknown"
-  ],
-  "38.180.194.61": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.67.69.238": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.181": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.164": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.158.206.25": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ace-starling.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "108.181.57.93": [
-    "🏳️",
-    "Unknown"
-  ],
-  "saved-ghoul.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.103": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.236": [
-    "🏳️",
-    "Unknown"
-  ],
-  "195.63.141.201": [
-    "🏳️",
-    "Unknown"
-  ],
-  "x4g-production-06e2.up.railway.app": [
-    "🏳️",
-    "Unknown"
-  ],
-  "67.220.95.3": [
-    "🏳️",
-    "Unknown"
-  ],
-  "classic-gator.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "worthy-labrador.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.16.174.37": [
-    "🏳️",
-    "Unknown"
-  ],
-  "83.147.18.219": [
-    "🏳️",
-    "Unknown"
-  ],
-  "158.173.20.208": [
-    "🏳️",
-    "Unknown"
-  ],
-  "15.204.97.206": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.139.26.133": [
-    "🏳️",
-    "Unknown"
-  ],
-  "thorough-falcon.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.155": [
-    "🏳️",
-    "Unknown"
-  ],
-  "oplosgru-c.catcat321.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.17.121.9": [
-    "🏳️",
-    "Unknown"
-  ],
-  "trtw.fastlynew.hosting-ip.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "72.56.36.96": [
-    "🏳️",
-    "Unknown"
-  ],
-  "46.183.185.15": [
-    "🏳️",
-    "Unknown"
-  ],
-  "render.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.195.233.191": [
-    "🏳️",
-    "Unknown"
-  ],
-  "209.126.84.189": [
-    "🏳️",
-    "Unknown"
-  ],
-  "163.171.137.72": [
-    "🏳️",
-    "Unknown"
-  ],
-  "79.110.53.169": [
-    "🏳️",
-    "Unknown"
-  ],
-  "86.107.178.68": [
-    "🏳️",
-    "Unknown"
-  ],
-  "n1761296892.4u9ma.icu": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.250.8.129": [
-    "🏳️",
-    "Unknown"
-  ],
-  "38.12.83.217": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fn2-unlimited.pavilof.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "78.129.140.11": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.26": [
-    "🏳️",
-    "Unknown"
-  ],
-  "vpn-kr-003.fastervpn.world": [
-    "🏳️",
-    "Unknown"
-  ],
-  "213.159.66.206": [
-    "🏳️",
-    "Unknown"
-  ],
-  "sure-humpback.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fi-raiv2mmr-free.sliplane.app": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ye.fxlcn.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "healthy-panda.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.122": [
-    "🏳️",
-    "Unknown"
-  ],
-  "mmd-production-13bc.up.railway.app": [
-    "🏳️",
-    "Unknown"
-  ],
-  "163.171.181.49": [
-    "🏳️",
-    "Unknown"
-  ],
-  "nl2.sferavpn.pro": [
-    "🏳️",
-    "Unknown"
-  ],
-  "85.192.48.235": [
-    "🏳️",
-    "Unknown"
-  ],
-  "43.207.140.98": [
-    "🏳️",
-    "Unknown"
-  ],
-  "relaxed-gull.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "165.215.250.14": [
-    "🏳️",
-    "Unknown"
-  ],
-  "r3mrcg001287h3p.cybervena.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.83.20.206": [
-    "🏳️",
-    "Unknown"
-  ],
-  "90.156.218.236": [
-    "🏳️",
-    "Unknown"
-  ],
-  "46.62.128.207": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fr76.mechvpn.online": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.171.137.109": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.111.114.71": [
-    "🏳️",
-    "Unknown"
-  ],
-  "217.13.111.70": [
-    "🏳️",
-    "Unknown"
-  ],
-  "72.56.247.70": [
-    "🏳️",
-    "Unknown"
-  ],
-  "52.194.250.73": [
-    "🏳️",
-    "Unknown"
-  ],
-  "nl1.noesissite.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "154.21.93.106": [
-    "🏳️",
-    "Unknown"
-  ],
-  "13.229.110.73": [
-    "🏳️",
-    "Unknown"
-  ],
-  "212.227.231.38": [
-    "🏳️",
-    "Unknown"
-  ],
-  "70.34.214.175": [
-    "🏳️",
-    "Unknown"
-  ],
-  "cloudfire.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.75.118.125": [
-    "🏳️",
-    "Unknown"
-  ],
-  "3.34.186.19": [
-    "🏳️",
-    "Unknown"
-  ],
-  "definite-malamute.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.178.208.176": [
-    "🏳️",
-    "Unknown"
-  ],
-  "167.17.69.171": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.67.190.141": [
-    "🏳️",
-    "Unknown"
-  ],
-  "de.skytunnel.pw": [
-    "🏳️",
-    "Unknown"
-  ],
-  "vpn-us-003.fastervpn.world": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.176": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.130.125.112": [
-    "🏳️",
-    "Unknown"
-  ],
-  "130.61.50.75": [
-    "🏳️",
-    "Unknown"
-  ],
-  "202.47.89.133": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.183": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.47": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fj260205.freechatup.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "35.72.13.34": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.215": [
-    "🏳️",
-    "Unknown"
-  ],
-  "striking-maggot.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.28": [
-    "🏳️",
-    "Unknown"
-  ],
-  "54.255.220.11": [
-    "🏳️",
-    "Unknown"
-  ],
-  "billing.netraidly.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "37.59.97.136": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2a14:3f87:f001:1a::a": [
-    "🏳️",
-    "Unknown"
-  ],
-  "glorious-lark.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "129.146.77.248": [
-    "🏳️",
-    "Unknown"
-  ],
-  "176.122.27.150": [
-    "🏳️",
-    "Unknown"
-  ],
-  "88.214.24.235": [
-    "🏳️",
-    "Unknown"
-  ],
-  "193.29.139.225": [
-    "🏳️",
-    "Unknown"
-  ],
-  "zula.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "162.159.152.53": [
-    "🏳️",
-    "Unknown"
-  ],
-  "8.35.211.87": [
-    "🏳️",
-    "Unknown"
-  ],
-  "cf.090227.xyz": [
-    "🏳️",
-    "Unknown"
-  ],
-  "154.205.152.64": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.20.23.154": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pg-sw-443-vless-tcp.gigatapbot.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "31.58.50.200": [
-    "🏳️",
-    "Unknown"
-  ],
-  "safe-frog.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.13": [
-    "🏳️",
-    "Unknown"
-  ],
-  "193.23.194.78": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2001:bc8:32d7:302::10": [
-    "🏳️",
-    "Unknown"
-  ],
-  "13.113.43.109": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fj260403.freechatup.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "62.210.124.146": [
-    "🏳️",
-    "Unknown"
-  ],
-  "163.171.213.47": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ez-041a82.ezaccess1225a0b.workers.dev": [
-    "🏳️",
-    "Unknown"
-  ],
-  "36.224.162.2": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.40.153.217": [
-    "🏳️",
-    "Unknown"
-  ],
-  "156.244.20.53": [
-    "🏳️",
-    "Unknown"
-  ],
-  "188.114.97.6": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fleet-bonefish.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "n1747624274.4u9ma.icu": [
-    "🏳️",
-    "Unknown"
-  ],
-  "194.187.251.2": [
-    "🏳️",
-    "Unknown"
-  ],
-  "144.31.90.185": [
-    "🏳️",
-    "Unknown"
-  ],
-  "141.101.120.73": [
-    "🏳️",
-    "Unknown"
-  ],
-  "195.254.165.243": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.90.75.252": [
-    "🏳️",
-    "Unknown"
-  ],
-  "38.60.221.117": [
-    "🏳️",
-    "Unknown"
-  ],
-  "54.36.174.140": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.91.251.198": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.205": [
-    "🏳️",
-    "Unknown"
-  ],
-  "15.204.97.197": [
-    "🏳️",
-    "Unknown"
-  ],
-  "162.159.38.119": [
-    "🏳️",
-    "Unknown"
-  ],
-  "52.78.13.238": [
-    "🏳️",
-    "Unknown"
-  ],
-  "141.98.101.182": [
-    "🏳️",
-    "Unknown"
-  ],
-  "capable-jay.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "178.72.162.73": [
-    "🏳️",
-    "Unknown"
-  ],
-  "hy2.123266.xyz": [
-    "🏳️",
-    "Unknown"
-  ],
-  "91.107.151.30": [
-    "🏳️",
-    "Unknown"
-  ],
-  "darling-mutt.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.17.77.77": [
-    "🏳️",
-    "Unknown"
-  ],
-  "44.251.47.95": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.64.145.38": [
-    "🏳️",
-    "Unknown"
-  ],
-  "212.227.102.223": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.155.37": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.136.12.190": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.77.225.200": [
-    "🏳️",
-    "Unknown"
-  ],
-  "77.222.46.162": [
-    "🏳️",
-    "Unknown"
-  ],
-  "202.78.163.248": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pg-usa2-bot.gigatapbot.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "3.112.15.214": [
-    "🏳️",
-    "Unknown"
-  ],
-  "141.98.101.179": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ad-020.novayjr9g.info": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.120.178.193": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.153.197.5": [
-    "🏳️",
-    "Unknown"
-  ],
-  "us.klxiaogou.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "170.114.46.6": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.16.72.41": [
-    "🏳️",
-    "Unknown"
-  ],
-  "168.222.143.50": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pg-sp2-bot.gigatapbot.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.141.221.200": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.64.94.251": [
-    "🏳️",
-    "Unknown"
-  ],
-  "47.129.9.33": [
-    "🏳️",
-    "Unknown"
-  ],
-  "43.173.74.241": [
-    "🏳️",
-    "Unknown"
-  ],
-  "de.zarasite.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "premium-weevil.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.192.2.115": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.88.172.154": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.146.131.97": [
-    "🏳️",
-    "Unknown"
-  ],
-  "163.171.137.76": [
-    "🏳️",
-    "Unknown"
-  ],
-  "52.76.177.127": [
-    "🏳️",
-    "Unknown"
-  ],
-  "8.35.211.43": [
-    "🏳️",
-    "Unknown"
-  ],
-  "picked-guinea.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.149.183.10": [
-    "🏳️",
-    "Unknown"
-  ],
-  "tough-hermit.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "138.124.68.188": [
-    "🏳️",
-    "Unknown"
-  ],
-  "178.72.133.193": [
-    "🏳️",
-    "Unknown"
-  ],
-  "69.46.46.30": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.90.32.132": [
-    "🏳️",
-    "Unknown"
+  "54.249.34.120": [
+    "🇯🇵",
+    "Japan"
   ],
-  "netraidly.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.186.154.216": [
-    "🏳️",
-    "Unknown"
-  ],
-  "146.75.64.0": [
-    "🏳️",
-    "Unknown"
-  ],
-  "54.74.210.220": [
-    "🏳️",
-    "Unknown"
-  ],
-  "chatgpt-async-webps-prod-centralus-0.chatgpt.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.88.183.157": [
-    "🏳️",
-    "Unknown"
+  "51.250.25.32": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "94.183.160.101": [
-    "🏳️",
-    "Unknown"
+  "104.19.96.119": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "80.92.204.106": [
-    "🏳️",
-    "Unknown"
+  "104.18.32.37": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "definite-ladybird.rooster465.autos": [
+  "n1761214907.74qxv.top": [
     "🏳️",
     "Unknown"
   ],
-  "77.240.38.27": [
-    "🏳️",
-    "Unknown"
+  "pg-usa-bot.gigatapbot.top": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "194.26.229.218": [
-    "🏳️",
-    "Unknown"
+  "104.21.89.181": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "18.178.132.111": [
-    "🏳️",
-    "Unknown"
+  "fj260306.freechatup.com": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "132.145.200.43": [
-    "🏳️",
-    "Unknown"
+  "51.158.206.80": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "present-warthog.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "51.250.27.60": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "103.186.154.218": [
-    "🏳️",
-    "Unknown"
+  "147.78.1.230": [
+    "🇲🇽",
+    "Mexico"
   ],
-  "37.252.17.192": [
-    "🏳️",
-    "Unknown"
+  "185.155.97.241": [
+    "🇪🇪",
+    "Estonia"
   ],
-  "25.26.27.158": [
-    "🏳️",
-    "Unknown"
+  "103.186.154.62": [
+    "🇻🇳",
+    "Viet Nam"
   ],
-  "172.64.147.211": [
-    "🏳️",
-    "Unknown"
+  "109.104.154.163": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "ro.h2corp.org": [
-    "🏳️",
-    "Unknown"
+  "distinct-llama.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
-  "select-ferret.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "2c.fast9988.com": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "mh7r5ardl0z5jtgy.v.3dns.vip": [
-    "🏳️",
-    "Unknown"
+  "43.202.56.122": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
-  "135.125.204.154": [
-    "🏳️",
-    "Unknown"
+  "103.186.154.18": [
+    "🇻🇳",
+    "Viet Nam"
   ],
-  "www.speedtest.net": [
-    "🏳️",
-    "Unknown"
+  "cosmin.ns.cloudflare.com": [
+    "🇺🇸",
+    "United States of America"
   ],
   "108.162.194.176": [
-    "🏳️",
-    "Unknown"
+    "🇺🇸",
+    "United States of America"
   ],
-  "94.156.155.27": [
-    "🏳️",
-    "Unknown"
+  "43hic3j.futurebalhbyh.lat": [
+    "🇩🇪",
+    "Germany"
   ],
-  "103.186.154.52": [
-    "🏳️",
-    "Unknown"
+  "208.67.105.196": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "182.16.61.3": [
-    "🏳️",
-    "Unknown"
+  "pg-nl-443-vless-tcp.gigatapbot.top": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "82.38.31.208": [
-    "🏳️",
-    "Unknown"
+  "classic-gator.rooster465.autos": [
+    "🇫🇷",
+    "France"
   ],
-  "185.193.49.88": [
-    "🏳️",
-    "Unknown"
+  "82.198.246.97": [
+    "🇨🇿",
+    "Czechia"
   ],
-  "82.38.31.199": [
-    "🏳️",
-    "Unknown"
+  "163.171.213.46": [
+    "🇮🇱",
+    "Israel"
   ],
-  "54.180.228.238": [
-    "🏳️",
-    "Unknown"
+  "5.175.249.117": [
+    "🇩🇪",
+    "Germany"
   ],
-  "pl4.lckdwn.ru": [
-    "🏳️",
-    "Unknown"
+  "57.129.69.122": [
+    "🇩🇪",
+    "Germany"
   ],
-  "firm-krill.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "130.61.50.75": [
+    "🇩🇪",
+    "Germany"
   ],
-  "82.117.87.199": [
-    "🏳️",
-    "Unknown"
-  ],
-  "nycqg19zkwacpm1b.v.3dns.vip": [
-    "🏳️",
-    "Unknown"
-  ],
-  "194.55.239.115": [
-    "🏳️",
-    "Unknown"
-  ],
-  "38.60.203.155": [
-    "🏳️",
-    "Unknown"
-  ],
-  "rush-72frf.meeopp.site": [
-    "🏳️",
-    "Unknown"
-  ],
-  "141.98.87.48": [
-    "🏳️",
-    "Unknown"
-  ],
-  "7timuei1uufoixbf.v.3dns.vip": [
-    "🏳️",
-    "Unknown"
-  ],
-  "login.netraidly.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "platform.wise.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "delilah.ns.cloudflare.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev": [
-    "🏳️",
-    "Unknown"
-  ],
-  "trta.fastlynew.hosting-ip.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "195.85.59.30": [
-    "🏳️",
-    "Unknown"
-  ],
-  "38.246.226.240": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.250.95.143": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ooooooof.ir.fizikade.ir": [
-    "🏳️",
-    "Unknown"
-  ],
-  "45.12.144.18": [
-    "🏳️",
-    "Unknown"
-  ],
-  "grand-grub.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.237.185.160": [
-    "🏳️",
-    "Unknown"
-  ],
-  "154.205.145.37": [
-    "🏳️",
-    "Unknown"
-  ],
-  "4.168.234.5": [
-    "🏳️",
-    "Unknown"
-  ],
-  "112.197.26.106": [
-    "🏳️",
-    "Unknown"
-  ],
-  "23.150.248.20": [
-    "🏳️",
-    "Unknown"
-  ],
-  "13.113.89.229": [
-    "🏳️",
-    "Unknown"
-  ],
-  "ar.paydar.site": [
-    "🏳️",
-    "Unknown"
-  ],
-  "157.85.230.247": [
-    "🏳️",
-    "Unknown"
-  ],
-  "168.222.202.15": [
-    "🏳️",
-    "Unknown"
-  ],
-  "212.192.14.227": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.26.15.85": [
-    "🏳️",
-    "Unknown"
-  ],
-  "94.232.247.186": [
-    "🏳️",
-    "Unknown"
+  "172.67.132.19": [
+    "🇺🇸",
+    "United States of America"
   ],
   "ipv.aiteamplus.ir": [
     "🏳️",
     "Unknown"
   ],
-  "185.91.54.143": [
+  "83.168.88.40": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "163.171.207.11": [
+    "🇸🇦",
+    "Saudi Arabia"
+  ],
+  "43.173.74.241": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "62.100.205.48": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "202.78.163.148": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "176.109.106.34": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "pg-sp-443-vless-tcp.gigatapbot.top": [
+    "🇪🇸",
+    "Spain"
+  ],
+  "fr.monkeyisland.xyz": [
+    "🇫🇷",
+    "France"
+  ],
+  "upward-puma.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "pg-de-443-vless-tcp.gigatapbot.top": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "193.233.246.85": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "kind-stork.rooster465.autos": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "45.131.209.130": [
+    "🇧🇿",
+    "Belize"
+  ],
+  "185.231.233.112": [
+    "🇵🇹",
+    "Portugal"
+  ],
+  "70.39.197.9": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "66.70.179.198": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "82.38.31.204": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "67.220.85.46": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "neth.lckdwn.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "whole-grub.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "638985047311782755.abadan-drcn-aaaai.info": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "217.60.99.18": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "devoted-tapir.rooster465.autos": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "purple-butterfly-8496.erfannull36.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "switcher-nick-croquet.freesocks.work": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "185.128.139.11": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "82.38.31.181": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "130.250.137.171": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "146.103.113.158": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.21.84.30": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "176.97.64.144": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "104.17.181.19": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "209.94.90.4": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "188.114.96.3": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "89.39.70.143": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "129.146.143.80": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "165.140.216.142": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "broad-truth-e988.258-217.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "194.87.47.61": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "186.246.19.79": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "206.71.158.41": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "188.114.97.3": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "78.129.140.11": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "77.222.35.36": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "52.194.250.73": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "tolerant-mosquito.rooster465.autos": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "193.23.194.78": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "firm-krill.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "51.250.27.132": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "82.38.31.11": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "8.218.17.136": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "vah4urdzl3jdx5r2.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "51.91.251.198": [
+    "🇫🇷",
+    "France"
+  ],
+  "casual-bee.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "141.101.114.8": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "194.61.121.93": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "18.181.175.120": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "45.84.196.56": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "193.29.139.151": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "188.72.103.4": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "yellow-hall-d482.260-d22.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "87.242.85.201": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "103.186.154.14": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "89.39.70.85": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "m01c7b2z26dtqgee.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "45.192.2.115": [
+    "🇫🇷",
+    "France"
+  ],
+  "92.223.62.214": [
+    "🇦🇿",
+    "Azerbaijan"
+  ],
+  "178.72.133.193": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "sc-thenetherlands1.09vpn.com": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "31.76.30.79": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "109.201.152.181": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "150.241.108.36": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "dynamic-grubworm.rooster465.autos": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "104.17.164.123": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "noted-bass.rooster465.autos": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "134.255.210.49": [
+    "🇨🇾",
+    "Cyprus"
+  ],
+  "15.188.161.63": [
+    "🇫🇷",
+    "France"
+  ],
+  "87.121.162.249": [
+    "🇦🇱",
+    "Albania"
+  ],
+  "176.122.27.150": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "82.117.87.199": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "91.132.94.200": [
+    "🇸🇮",
+    "Slovenia"
+  ],
+  "82.38.31.215": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "188.114.98.0": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "54.255.220.11": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "51.158.206.29": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "server3.pegibol940.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.156.233.234": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "52.78.13.238": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "62.210.91.10": [
+    "🇫🇷",
+    "France"
+  ],
+  "144.31.90.185": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "38.180.195.193": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "103.186.154.231": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "167.17.70.117": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "205.237.109.212": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "healthy-louse.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "mci.yektanet.info": [
+    "🏳️",
+    "Unknown"
+  ],
+  "77.222.46.162": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "82.38.31.198": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "15.235.83.228": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "bypass.fr-gt-01.com": [
+    "🇫🇷",
+    "France"
+  ],
+  "R3MRCG00129437X.cybervena.com": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "t11.qifei.app": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "82.38.31.203": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "158.160.198.23": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "40.160.14.104": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.111.114.80": [
+    "🇮🇳",
+    "India"
+  ],
+  "185.148.104.30": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "167.68.4.199": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "2a14:3f87:f001:1a::a": [
+    "🏳️",
+    "Unknown"
+  ],
+  "46.254.18.27": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "trq.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "3.112.29.46": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "172.234.132.232": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.206.170.90": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "82.38.31.185": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "2001:bc8:32d7:302::11": [
+    "🏳️",
+    "Unknown"
+  ],
+  "168.222.202.187": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "ca225.vpnbook.com": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "168.138.43.75": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "skilled-monster.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "172.67.69.238": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "144.31.0.234": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "us.klxiaogou.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "3.38.106.2": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "172.64.94.251": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "198.98.53.130": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "de.skytunnel.pw": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "82.38.31.206": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "176.120.17.21": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.16.98.215": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "15.204.97.197": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "77.233.214.31": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "66.245.193.152": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "168.222.143.50": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "deapp.jisuyun.top": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "chief-cricket.rooster465.autos": [
+    "🇫🇷",
+    "France"
+  ],
+  "141.11.187.119": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "pg-nl2-bot.gigatapbot.top": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.38.31.164": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "devoted-heron.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "201.51.12.73": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "82.38.31.42": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "node-uk.connectsuite.org": [
+    "🇫🇷",
+    "France"
+  ],
+  "103.186.154.150": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "36.224.162.2": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "103.186.154.156": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "43.201.56.44": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "104.17.121.9": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "144.31.119.216": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "3.112.15.214": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "vpn-us-003.fastervpn.world": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "62.210.124.146": [
+    "🇫🇷",
+    "France"
+  ],
+  "38.60.221.237": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "194.187.251.2": [
+    "🇧🇪",
+    "Belgium"
+  ],
+  "103.186.155.76": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "r3mrcg001286ek2.cybervena.com": [
+    "🇹🇼",
+    "Taiwan (Province of China)"
+  ],
+  "82.38.31.162": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "141.98.101.178": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "141.98.101.179": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "css.torplay.ir": [
+    "🏳️",
+    "Unknown"
+  ],
+  "82.38.31.184": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "37.143.14.212": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "43.203.203.244": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "definite-hen.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "xg.xn--mes13n8pi8x2b.shop": [
+    "🏳️",
+    "Unknown"
+  ],
+  "27.50.48.8": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "38.180.194.61": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "163.171.181.49": [
+    "🇰🇼",
+    "Kuwait"
+  ],
+  "prepared-thrush.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "18.181.164.216": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "www.speedtest.net": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "oplosgru-c.catcat321.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "154.26.132.38": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "51.250.99.49": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "104.167.197.79": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "154.26.156.99": [
+    "🇦🇺",
+    "Australia"
+  ],
+  "104.18.8.83": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "de151.mechvpn.online": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "strong-haddock.rooster465.autos": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "38.246.226.240": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "51.158.206.12": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "login.netraidly.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.186.154.237": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "104.17.111.4": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "128.204.223.94": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "free.server11peekconfig.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "52.195.10.183": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "45.12.144.18": [
+    "🇱🇺",
+    "Luxembourg"
+  ],
+  "51.158.206.97": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.186.154.74": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "94.232.247.186": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "2.56.242.210": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "64.188.82.15": [
+    "🇪🇪",
+    "Estonia"
+  ],
+  "103.111.114.61": [
+    "🇮🇳",
+    "India"
+  ],
+  "82.38.31.26": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.38.31.10": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "108.181.57.93": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "3.112.238.99": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "173.245.58.121": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "167.150.100.133": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "pl140.vpnbook.com": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "154.90.60.117": [
+    "🇧🇷",
+    "Brazil"
+  ],
+  "62.152.58.117": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "178.72.162.73": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "83.147.18.219": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "sec2.masterdpibypass.com": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "71.19.148.143": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "44.242.235.129": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "fancy-skink.rooster465.autos": [
+    "🇫🇷",
+    "France"
+  ],
+  "104.16.174.71": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "202.146.222.29": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "82.38.31.190": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.21.23.72": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "107.173.127.166": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "fj260403.freechatup.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "fr15.mechvpn.online": [
+    "🇫🇷",
+    "France"
+  ],
+  "166.62.109.30": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "ce0gedpxwou6cqon.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "51.158.206.8": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "170.114.45.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "estproxy2.lockdwn.com": [
+    "🇪🇪",
+    "Estonia"
+  ],
+  "saved-ghoul.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "112.197.26.106": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "hk1.shiyuandian.shop": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "51.250.106.64": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "91.199.84.120": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "43.201.46.108": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "grateful-owl.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "fiproxy1.lockdwn.com": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "104.18.15.19": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "45.11.26.234": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "45.131.212.4": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "104.21.55.229": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "internal-sunbird.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "vip-de2-unlimited.relqino.ir": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "norman.ns.cloudflare.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "142.249.37.90": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "85.204.107.164": [
+    "🇩🇿",
+    "Algeria"
+  ],
+  "51.250.21.184": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "157.85.230.247": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "77.73.232.61": [
+    "🇰🇿",
+    "Kazakhstan"
+  ],
+  "51.255.13.232": [
+    "🇫🇷",
+    "France"
+  ],
+  "44.251.47.95": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "104.16.174.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "108.181.58.239": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "2a14:3f87:f001:13::a": [
+    "🏳️",
+    "Unknown"
+  ],
+  "80.92.204.106": [
+    "🇧🇪",
+    "Belgium"
+  ],
+  "5.75.204.30": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "154.205.139.9": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "54.36.174.140": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "104.16.107.139": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "updates.kermanshahi.org": [
+    "🏳️",
+    "Unknown"
+  ],
+  "193.29.139.168": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.38.31.193": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "present-warthog.rooster465.autos": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "drbkg16egf3fzlm3.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "64.31.63.244": [
+    "🇫🇷",
+    "France"
+  ],
+  "82.38.31.187": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "205.237.109.220": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "netraidly.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "62.152.56.73": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "tu2.petshopcloud.ir": [
+    "🇹🇷",
+    "Turkiye"
+  ],
+  "104.17.21.32": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "103.186.155.71": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "167.17.69.171": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "54.36.174.134": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "77.240.38.27": [
+    "🇰🇿",
+    "Kazakhstan"
+  ],
+  "45.88.183.157": [
+    "🇮🇳",
+    "India"
+  ],
+  "154.205.152.64": [
+    "🇲🇽",
+    "Mexico"
+  ],
+  "82.38.31.57": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "80.71.157.175": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "45.131.212.6": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "84.201.136.20": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "103.186.155.42": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "ex1ogt73nzpqkac2.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "82.38.31.216": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "82.38.31.182": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "definite-malamute.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "93ucrn4i0pffuabk.v.3dns.vip": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "sensible-mongrel.rooster465.autos": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "rb.xn--mes13n8pi8x2b.shop": [
     "🏳️",
     "Unknown"
   ],
   "52.79.210.229": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "206.71.158.40": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "103.186.154.249": [
+    "🇻🇳",
+    "Viet Nam"
+  ],
+  "n1747624260.4u9ma.icu": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "43.203.244.203": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "34.251.228.118": [
+    "🇮🇪",
+    "Ireland"
+  ],
+  "n1747624267.4u9ma.icu": [
     "🏳️",
     "Unknown"
   ],
-  "upright-impala.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "select-ferret.rooster465.autos": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ],
-  "strong-haddock.rooster465.autos": [
-    "🏳️",
-    "Unknown"
+  "51.250.95.143": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "57.129.69.122": [
-    "🏳️",
-    "Unknown"
+  "103.186.154.17": [
+    "🇻🇳",
+    "Viet Nam"
   ],
-  "163.171.213.46": [
-    "🏳️",
-    "Unknown"
+  "72.56.7.195": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "3.112.223.141": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.210": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.18": [
-    "🏳️",
-    "Unknown"
-  ],
-  "64.31.63.244": [
-    "🏳️",
-    "Unknown"
-  ],
-  "89.208.86.65": [
-    "🏳️",
-    "Unknown"
-  ],
-  "private.netraidly.ru": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.163.204.94": [
-    "🏳️",
-    "Unknown"
-  ],
-  "210.203.195.52": [
-    "🏳️",
-    "Unknown"
-  ],
-  "72.56.92.177": [
-    "🏳️",
-    "Unknown"
-  ],
-  "gr-raiv2mmr-free.sliplane.app": [
-    "🏳️",
-    "Unknown"
-  ],
-  "host-vds2-fr.kvncococ.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.111.114.61": [
-    "🏳️",
-    "Unknown"
-  ],
-  "20.107.197.108": [
-    "🏳️",
-    "Unknown"
-  ],
-  "86.107.178.66": [
-    "🏳️",
-    "Unknown"
-  ],
-  "13.36.175.151": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fiproxy1.lockdwn.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.198.246.233": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.198.246.97": [
+  "trta.fastlynew.hosting-ip.com": [
     "🏳️",
     "Unknown"
   ],
   "165.154.195.38": [
-    "🏳️",
-    "Unknown"
+    "🇹🇼",
+    "Taiwan (Province of China)"
   ],
-  "15.235.83.228": [
-    "🏳️",
-    "Unknown"
+  "168.222.203.14": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "13.230.118.96": [
-    "🏳️",
-    "Unknown"
+  "141.101.120.73": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "103.186.154.67": [
-    "🏳️",
-    "Unknown"
+  "172.67.207.26": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "pq-brazil1.09vpn.com": [
-    "🏳️",
-    "Unknown"
+  "82.38.31.200": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
-  "5.75.204.30": [
-    "🏳️",
-    "Unknown"
+  "172.67.152.71": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "185.159.108.42": [
-    "🏳️",
-    "Unknown"
+  "135.125.204.154": [
+    "🇩🇪",
+    "Germany"
   ],
-  "34.251.228.118": [
-    "🏳️",
-    "Unknown"
+  "91.224.87.181": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "103.186.155.33": [
-    "🏳️",
-    "Unknown"
+  "91.107.151.30": [
+    "🇩🇪",
+    "Germany"
   ],
-  "104.16.73.213": [
-    "🏳️",
-    "Unknown"
+  "45.139.26.33": [
+    "🇷🇺",
+    "Russian Federation"
   ],
-  "rush-w1niu.teeopp.online": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.250.27.132": [
-    "🏳️",
-    "Unknown"
-  ],
-  "fr15.mechvpn.online": [
-    "🏳️",
-    "Unknown"
-  ],
-  "159.89.87.21": [
-    "🏳️",
-    "Unknown"
-  ],
-  "80.71.157.175": [
-    "🏳️",
-    "Unknown"
-  ],
-  "pg-nl-443-vless-tcp.gigatapbot.top": [
-    "🏳️",
-    "Unknown"
-  ],
-  "166.62.108.30": [
-    "🏳️",
-    "Unknown"
-  ],
-  "31.177.111.151": [
-    "🏳️",
-    "Unknown"
-  ],
-  "193.124.57.208": [
-    "🏳️",
-    "Unknown"
-  ],
-  "85.92.111.38": [
-    "🏳️",
-    "Unknown"
-  ],
-  "15.204.97.198": [
-    "🏳️",
-    "Unknown"
-  ],
-  "44.244.3.114": [
-    "🏳️",
-    "Unknown"
-  ],
-  "192.71.166.100": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.21.24.95": [
-    "🏳️",
-    "Unknown"
-  ],
-  "65.109.208.236": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.117.0.185": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.17.21.137": [
-    "🏳️",
-    "Unknown"
-  ],
-  "185.128.139.11": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.211": [
-    "🏳️",
-    "Unknown"
-  ],
-  "156.146.38.167": [
-    "🏳️",
-    "Unknown"
-  ],
-  "82.38.31.218": [
-    "🏳️",
-    "Unknown"
-  ],
-  "66.81.247.155": [
-    "🏳️",
-    "Unknown"
-  ],
-  "38.180.195.193": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.158.206.103": [
-    "🏳️",
-    "Unknown"
-  ],
-  "15.235.75.71": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.250.106.64": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.250.27.60": [
-    "🏳️",
-    "Unknown"
-  ],
-  "192.0.63.30": [
-    "🏳️",
-    "Unknown"
-  ],
-  "172.67.149.60": [
-    "🏳️",
-    "Unknown"
-  ],
-  "2001:bc8:32d7:225::3": [
-    "🏳️",
-    "Unknown"
-  ],
-  "93.152.207.254": [
-    "🏳️",
-    "Unknown"
-  ],
-  "109.104.154.163": [
-    "🏳️",
-    "Unknown"
-  ],
-  "103.115.109.49": [
-    "🏳️",
-    "Unknown"
-  ],
-  "cindy50.ceoiii.com": [
-    "🏳️",
-    "Unknown"
-  ],
-  "humorous-malamute.rooster465.autos": [
-    "🏳️",
-    "Unknown"
-  ],
-  "51.250.39.121": [
-    "🏳️",
-    "Unknown"
-  ],
-  "s1243.gogocs.xyz": [
-    "🏳️",
-    "Unknown"
-  ],
-  "104.19.96.119": [
-    "🏳️",
-    "Unknown"
+  "51.77.225.200": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
   ]
 }
