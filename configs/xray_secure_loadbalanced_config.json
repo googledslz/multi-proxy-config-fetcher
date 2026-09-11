@@ -1361,30 +1361,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "66.163.117.58",
-            "port": 22324,
-            "users": [
-              {
-                "id": "04621bae-ab36-11ec-b909-0242ac120002",
-                "alterId": 0,
-                "security": "auto",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "none"
-      }
-    },
-    {
-      "tag": "proxy-54",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
             "address": "82.198.246.250",
             "port": 180,
             "users": [
