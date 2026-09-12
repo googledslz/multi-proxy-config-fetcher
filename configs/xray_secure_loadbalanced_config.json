@@ -1232,30 +1232,6 @@
       "settings": {
         "vnext": [
           {
-            "address": "v30.hdacd.com",
-            "port": 30830,
-            "users": [
-              {
-                "id": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-                "alterId": 0,
-                "security": "auto",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "none"
-      }
-    },
-    {
-      "tag": "proxy-50",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
             "address": "66.163.117.58",
             "port": 22324,
             "users": [
@@ -1275,7 +1251,7 @@
       }
     },
     {
-      "tag": "proxy-51",
+      "tag": "proxy-50",
       "protocol": "vmess",
       "settings": {
         "vnext": [
