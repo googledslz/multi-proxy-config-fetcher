@@ -145,7 +145,6 @@
                 "🇳🇱 198 - NL - SS/AEAD - 8080",
                 "🇳🇱 199 - NL - SS/AEAD - 8080",
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
-                "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
                 "🇳🇱 221 - NL - SS/AEAD - 8080",
                 "🇳🇱 222 - NL - SS/AEAD - 8080",
@@ -206,7 +205,6 @@
                 "🇳🇱 198 - NL - SS/AEAD - 8080",
                 "🇳🇱 199 - NL - SS/AEAD - 8080",
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
-                "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
                 "🇳🇱 221 - NL - SS/AEAD - 8080",
                 "🇳🇱 222 - NL - SS/AEAD - 8080",
@@ -972,14 +970,6 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "k1dBOmOB4oqi7Ump37a1bQ"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 219 - NL - SS/AEAD - 8080",
-            "server": "193.29.139.151",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "type": "shadowsocks",
